@@ -1,35 +1,10 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "attributedString",
-    "attributes": [
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.2,
-            "green": 0.2,
-            "red": 0.2
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "OpenSans-Light",
-              "size": 14
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0
-          }
-        },
-        "length": 166,
-        "location": 0
-      }
-    ],
-    "string": "Ijsbrand Jan Aalbersberg, Tom Appleyard, Sarah Brookhart, Todd Carpenter, Michael Clarke, Stephen Curry, Josh Dahl, Alexander Carl Dehaven, Eric Eich, Maryrose Franko"
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGXV5YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHAcIDxAcHR4fKywtLi8wMTIzOT1FRkdISUxQVllVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAbgANfEKZJanNicmFuZCBKYW4gQWFsYmVyc2JlcmcsIFRvbSBBcHBsZXlhcmQsIFNhcmFoIEJyb29raGFydCwgVG9kZCBDYXJwZW50ZXIsIE1pY2hhZWwgQ2xhcmtlLCBTdGVwaGVuIEN1cnJ5LCBKb3NoIERhaGwsIEFsZXhhbmRlciBDYXJsIERlaGF2ZW4sIEVyaWMgRWljaCwgTWFyeXJvc2UgRnJhbmtv0xESChMXG1dOUy5rZXlzWk5TLm9iamVjdHOjFBUWgASABYAGoxgZGoAHgBGAGYAQXxAqTVNBdHRyaWJ1dGVkU3RyaW5nQ29sb3JEaWN0aW9uYXJ5QXR0cmlidXRlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QEE5TUGFyYWdyYXBoU3R5bGXTERIKICUbpCEiIySACIAJgAqAC6QmJygpgAyADYAOgA+AEFNyZWRVYWxwaGFUYmx1ZVVncmVlbiM/yZmZmZmZmiM/8AAAAAAAACM/yZmZmZmZmiM/yZmZmZmZmtI0NTY3WiRjbGFzc25hbWVYJGNsYXNzZXNcTlNEaWN0aW9uYXJ5ojY4WE5TT2JqZWN00go6OzxfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AYgBLTERIKPkFEoj9AgBOAFKJCQ4AVgBaAF18QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlEA5eT3BlblNhbnMtTGlnaHTSNDVKS18QE05TTXV0YWJsZURpY3Rpb25hcnmjSjY40jQ1TU5fEBBOU0ZvbnREZXNjcmlwdG9yok84XxAQTlNGb250RGVzY3JpcHRvctNRClJTVFVfEB9OU0FsbG93c1RpZ2h0ZW5pbmdGb3JUcnVuY2F0aW9uWk5TVGFiU3RvcHMQAYAagADSNDVXWF8QEE5TUGFyYWdyYXBoU3R5bGWiVzjSNDVaW18QEk5TQXR0cmlidXRlZFN0cmluZ6JcOF8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctFfYFRyb290gAEACAARABoAIwAtADIANwBWAFwAYwBsAHMAgACCAIQAhgEvATYBPgFJAU0BTwFRAVMBVwFZAVsBXQFfAYwBrgHBAcgBzQHPAdEB0wHVAdoB3AHeAeAB4gHkAegB7gHzAfkCAgILAhQCHQIiAi0CNgJDAkYCTwJUAnECcwJ1AnwCfwKBAoMChgKIAooCjAKiArgCugLJAs4C5ALoAu0DAAMDAxYDHQM/A0oDTANOA1ADVQNoA2sDcAOFA4gDnQOvA7IDtwAAAAAAAAIBAAAAAAAAAGEAAAAAAAAAAAAAAAAAAAO5"
+    }
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "7A27077B-7372-45B2-A367-986F36EE8D31",
@@ -80,15 +55,10 @@
           "red": 0.2
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
-          "attributes": {
-            "name": "OpenSans-Light",
-            "size": 14
-          }
+          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRAOXk9wZW5TYW5zLUxpZ2h00hwdHh9aJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjHiAhXE5TRGljdGlvbmFyeVhOU09iamVjdNIcHSMkXxAQTlNGb250RGVzY3JpcHRvcqIlIV8QEE5TRm9udERlc2NyaXB0b3JfEA9OU0tleWVkQXJjaGl2ZXLRKClUcm9vdIABAAgAEQAaACMALQAyADcAQQBHAEwAUwBwAHIAdAB7AIMAjgCRAJMAlQCYAJoAnACeALQAygDMANsA4ADrAPQBCgEOARsBJAEpATwBPwFSAWQBZwFsAAAAAAAAAgEAAAAAAAAAKgAAAAAAAAAAAAAAAAAAAW4="
         },
         "paragraphStyle": {
-          "_class": "paragraphStyle",
-          "alignment": 0
+          "_archive": "YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKMHCA9VJG51bGzTCQoLDA0OXxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvblYkY2xhc3NaTlNUYWJTdG9wcxABgAKAANIQERITWiRjbGFzc25hbWVYJGNsYXNzZXNfEBBOU1BhcmFncmFwaFN0eWxlohIUWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc7QUhqcXx+gIKHkpuusbrMz9QAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAA1g=="
         }
       },
       "verticalAlignment": 0

@@ -1,0 +1,105 @@
+{
+  "_class": "group",
+  "do_objectID": "2145711F-A4E5-44B0-BDD6-4B76AE331396",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 335,
+    "width": 894,
+    "x": 273.0000000000001,
+    "y": 749
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0F24BD43-21CE-4685-8AA0-F7B36018A85B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5E62FB10-05A3-4CBB-B176-F3B065248320"
+    },
+    {
+      "class": "text",
+      "id": "B095D93C-4EB7-4FC5-88D0-B139CDD07A7C"
+    },
+    {
+      "class": "text",
+      "id": "5FC4BDFA-F123-4FED-9849-7D6770EB68C8"
+    },
+    {
+      "class": "text",
+      "id": "DF09F824-D951-4C52-B002-1ABF51FA8584"
+    },
+    {
+      "class": "text",
+      "id": "46A19A7C-4EB5-43FF-9AFF-7E1C99D41827"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8D110469-1346-4574-8161-20297C6D4EFE"
+    },
+    {
+      "class": "text",
+      "id": "B80D6CD3-DE49-42AA-95B5-942F9FC1D60B"
+    },
+    {
+      "class": "text",
+      "id": "5312B67C-4FBF-4C3B-A4D6-3B2A1F341959"
+    },
+    {
+      "class": "text",
+      "id": "23AA3AF0-DFCB-4360-AC71-7CDE434F77AD"
+    },
+    {
+      "class": "text",
+      "id": "12417E55-42B1-4333-A79C-BD70E6E26A73"
+    },
+    {
+      "class": "text",
+      "id": "B95FBF34-6C7E-468F-9AAA-31029E064A8A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "774C1361-C600-47ED-80E6-D3925F520519"
+    },
+    {
+      "class": "text",
+      "id": "9F902EE9-9611-4D72-8F2C-45F9A0435F90"
+    },
+    {
+      "class": "text",
+      "id": "C61214B7-E469-4E13-B9FE-F0528586B672"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CA579B3D-E4C8-4C10-A30F-642EE0B12890"
+    }
+  ],
+  "name": "basics-block",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

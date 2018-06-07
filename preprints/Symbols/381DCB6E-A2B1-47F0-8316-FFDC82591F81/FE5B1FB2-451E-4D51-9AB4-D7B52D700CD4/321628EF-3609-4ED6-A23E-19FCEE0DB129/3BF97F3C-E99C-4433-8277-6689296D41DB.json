@@ -1,31 +1,10 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "attributedString",
-    "attributes": [
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0,
-            "green": 0,
-            "red": 0
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "FontAwesome",
-              "size": 14
-            }
-          }
-        },
-        "length": 1,
-        "location": 0
-      }
-    ],
-    "string": ""
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGT1BYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QFwcIDxAaGxwoKSorLC0uNDhAQUJDREdLVSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAFoADYfDa0xESChMWGVdOUy5rZXlzWk5TLm9iamVjdHOiFBWABIAFohcYgAaADoANXxAqTVNBdHRyaWJ1dGVkU3RyaW5nQ29sb3JEaWN0aW9uYXJ5QXR0cmlidXRlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZdMREgodIhmkHh8gIYAHgAiACYAKpCMkIyOAC4AMgAuAC4ANU3JlZFVhbHBoYVRibHVlVWdyZWVuIwAAAAAAAAAAIz/wAAAAAAAA0i8wMTJaJGNsYXNzbmFtZVgkY2xhc3Nlc1xOU0RpY3Rpb25hcnmiMTNYTlNPYmplY3TSCjU2N18QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBWAD9MREgo5PD+iOjuAEIARoj0+gBKAE4AUXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUQDltGb250QXdlc29tZdIvMEVGXxATTlNNdXRhYmxlRGljdGlvbmFyeaNFMTPSLzBISV8QEE5TRm9udERlc2NyaXB0b3KiSjNfEBBOU0ZvbnREZXNjcmlwdG9y0i8wTE1fEBJOU0F0dHJpYnV0ZWRTdHJpbmeiTjNfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRUVJUcm9vdIABAAgAEQAaACMALQAyADcAUQBXAF4AZwBuAHsAfQB/AIEAhACLAJMAngChAKMApQCoAKoArACuANsA/QEEAQkBCwENAQ8BEQEWARgBGgEcAR4BIAEkASoBLwE1AT4BRwFMAVcBYAFtAXABeQF+AZsBnQGfAaYBqQGrAa0BsAGyAbQBtgHMAeIB5AHwAfUCCwIPAhQCJwIqAj0CQgJXAloCbwKBAoQCiQAAAAAAAAIBAAAAAAAAAFMAAAAAAAAAAAAAAAAAAAKL"
+    }
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "3BF97F3C-E99C-4433-8277-6689296D41DB",
@@ -76,11 +55,7 @@
           "red": 0
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
-          "attributes": {
-            "name": "FontAwesome",
-            "size": 14
-          }
+          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRAOW0ZvbnRBd2Vzb21l0hwdHh9aJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjHiAhXE5TRGljdGlvbmFyeVhOU09iamVjdNIcHSMkXxAQTlNGb250RGVzY3JpcHRvcqIlIV8QEE5TRm9udERlc2NyaXB0b3JfEA9OU0tleWVkQXJjaGl2ZXLRKClUcm9vdIABAAgAEQAaACMALQAyADcAQQBHAEwAUwBwAHIAdAB7AIMAjgCRAJMAlQCYAJoAnACeALQAygDMANgA3QDoAPEBBwELARgBIQEmATkBPAFPAWEBZAFpAAAAAAAAAgEAAAAAAAAAKgAAAAAAAAAAAAAAAAAAAWs="
         }
       },
       "verticalAlignment": 0

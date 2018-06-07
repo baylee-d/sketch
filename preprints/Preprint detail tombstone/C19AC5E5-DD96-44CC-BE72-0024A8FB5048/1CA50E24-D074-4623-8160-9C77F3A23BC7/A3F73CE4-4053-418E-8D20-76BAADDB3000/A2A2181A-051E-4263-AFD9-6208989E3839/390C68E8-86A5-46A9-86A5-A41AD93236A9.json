@@ -1,35 +1,10 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "attributedString",
-    "attributes": [
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "OpenSans",
-              "size": 14
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle"
-          },
-          "textStyleVerticalAlignmentKey": 0
-        },
-        "length": 19,
-        "location": 0
-      }
-    ],
-    "string": "Go to OSF Preprints"
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGYGFYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGwcIDxAeHyAhIiowNDw9Pj9AREhJVVZXWFlaXFUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgBqAA18QE0dvIHRvIE9TRiBQcmVwcmludHPTERIKExgdV05TLmtleXNaTlMub2JqZWN0c6QUFRYXgASABYAGgAekGRobHIAIgAqAEoATgBlfEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QHXRleHRTdHlsZVZlcnRpY2FsQWxpZ25tZW50S2V5XxAqTVNBdHRyaWJ1dGVkU3RyaW5nQ29sb3JEaWN0aW9uYXJ5QXR0cmlidXRl1CMkJQomJygpWk5TVGFiU3RvcHNbTlNBbGlnbm1lbnRfEB9OU0FsbG93c1RpZ2h0ZW5pbmdGb3JUcnVuY2F0aW9ugAAQBBABgAnSKywtLlokY2xhc3NuYW1lWCRjbGFzc2VzXxAQTlNQYXJhZ3JhcGhTdHlsZaItL1hOU09iamVjdNIKMTIzXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAEYAL0xESCjU4O6I2N4AMgA2iOTqADoAPgBBfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRAOWE9wZW5TYW5z0issQUJfEBNOU011dGFibGVEaWN0aW9uYXJ5o0FDL1xOU0RpY3Rpb25hcnnSKyxFRl8QEE5TRm9udERlc2NyaXB0b3KiRy9fEBBOU0ZvbnREZXNjcmlwdG9yEADTERIKSk8dpEtMTU6AFIAVgBaAF6RQUFBQgBiAGIAYgBiAGVNyZWRVYWxwaGFUYmx1ZVVncmVlbiM/8AAAAAAAANIrLENbokMv0issXV5fEBJOU0F0dHJpYnV0ZWRTdHJpbmeiXy9fEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRYmNUcm9vdIABAAgAEQAaACMALQAyADcAVQBbAGIAawByAH8AgQCDAIUAmwCiAKoAtQC6ALwAvgDAAMIAxwDJAMsAzQDPANEA5AEGASYBUwFcAWcBcwGVAZcBmQGbAZ0BogGtAbYByQHMAdUB2gH3AfkB+wICAgUCBwIJAgwCDgIQAhICKAI+AkACSQJOAmQCaAJ1AnoCjQKQAqMCpQKsArECswK1ArcCuQK+AsACwgLEAsYCyALMAtIC1wLdAuYC6wLuAvMDCAMLAyADMgM1AzoAAAAAAAACAQAAAAAAAABkAAAAAAAAAAAAAAAAAAADPA=="
+    }
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "390C68E8-86A5-46A9-86A5-A41AD93236A9",
@@ -80,14 +55,10 @@
           "red": 1
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
-          "attributes": {
-            "name": "OpenSans",
-            "size": 14
-          }
+          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRAOWE9wZW5TYW5z0hwdHh9aJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjHiAhXE5TRGljdGlvbmFyeVhOU09iamVjdNIcHSMkXxAQTlNGb250RGVzY3JpcHRvcqIlIV8QEE5TRm9udERlc2NyaXB0b3JfEA9OU0tleWVkQXJjaGl2ZXLRKClUcm9vdIABAAgAEQAaACMALQAyADcAQQBHAEwAUwBwAHIAdAB7AIMAjgCRAJMAlQCYAJoAnACeALQAygDMANUA2gDlAO4BBAEIARUBHgEjATYBOQFMAV4BYQFmAAAAAAAAAgEAAAAAAAAAKgAAAAAAAAAAAAAAAAAAAWg="
         },
         "paragraphStyle": {
-          "_class": "paragraphStyle"
+          "_archive": "YnBsaXN0MDDUAQIDBAUGFxhYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKMHCBFVJG51bGzUCQoLDA0ODxBaTlNUYWJTdG9wc1tOU0FsaWdubWVudF8QH05TQWxsb3dzVGlnaHRlbmluZ0ZvclRydW5jYXRpb25WJGNsYXNzgAAQBBABgALSEhMUFVokY2xhc3NuYW1lWCRjbGFzc2VzXxAQTlNQYXJhZ3JhcGhTdHlsZaIUFlhOU09iamVjdF8QD05TS2V5ZWRBcmNoaXZlctEZGlRyb290gAEIERojLTI3O0FKVWGDioyOkJKXoqu+wcrc3+QAAAAAAAABAQAAAAAAAAAbAAAAAAAAAAAAAAAAAAAA5g=="
         },
         "textStyleVerticalAlignmentKey": 0
       },

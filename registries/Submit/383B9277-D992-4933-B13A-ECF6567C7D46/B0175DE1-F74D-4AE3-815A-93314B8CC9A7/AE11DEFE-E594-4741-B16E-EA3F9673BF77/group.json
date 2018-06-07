@@ -1,0 +1,101 @@
+{
+  "_class": "group",
+  "do_objectID": "AE11DEFE-E594-4741-B16E-EA3F9673BF77",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 5096,
+    "width": 897,
+    "x": 276,
+    "y": 150
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "4191C963-003C-4796-9BB7-BE5BC003AFCF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6D9E21AC-6E25-44C3-AFCD-1549EF10A77F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "84F8F0EA-6B4F-48B8-8B86-08170B36DBC8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0D17C403-BBC4-45E5-AC53-FDAF5C10F884"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F4B0214C-DF8D-441C-8459-B90349AD7929"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E078CFE8-F646-4EB5-9925-90C936411AED"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "067862F4-7105-446F-858E-C7BC399B9A79"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BBDB18E5-68F2-4F2E-8FD7-0F3E49DFA4C6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "79F982B6-9F63-46EC-BA20-E6551AA5017C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "96F91F05-0C66-44D1-8860-19D9457AF8EA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0E0EE917-FB67-4459-BE19-09A82ADEDF65"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C8DD9BB5-108A-4B20-831E-39407559DAA5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F74D6E87-5661-406F-B284-6C0C316BC77C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C7B54C8F-13D7-4E40-9DDE-AEEE55CF148B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DAB266E7-D27A-4A3B-9B88-2C999F0233B3"
+    }
+  ],
+  "name": "projectMeta",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGX2BYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHAcIDxAcHR4fKywtLi8wMTIzOT1FRkdISUxQWFtVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAbgANfEQE6VGhlIHB1cnBvc2Ugb2YgYSBmdWxseSBjb21tZW50ZWQgYW5hbHlzaXMgc2NyaXB0IGlzIHRvIHVuYW1iaWd1b3VzbHkgcHJvdmlkZSB0aGUgcmVzcG9uc2VzIHRvIGFsbCBvZiB0aGUgcXVlc3Rpb25zIHJhaXNlZCBpbiB0aGUgYW5hbHlzaXMgc2VjdGlvbi4gVGhpcyBzdGVwIGlzIG5vdCBjb21tb24sIGJ1dCB3ZSBlbmNvdXJhZ2UgeW91IHRvIHRyeSBjcmVhdGluZyBhbiBhbmFseXNpcyBzY3JpcHQsIHJlZmluZSBpdCB1c2luZyBhIG1vZGVsZWQgZGF0YXNldCwgYW5kIHVzZSBpdCBpbiBwbGFjZSBvZiB5b3VyIHdyaXR0ZW4gYW5hbHlzaXMgcGxhbi7TERIKExcbV05TLmtleXNaTlMub2JqZWN0c6MUFRaABIAFgAajGBkagAeAEYAZgBBfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAQTlNQYXJhZ3JhcGhTdHlsZdMREgogJRukISIjJIAIgAmACoALpCYnKCmADIANgA6AD4AQU3JlZFVhbHBoYVRibHVlVWdyZWVuIz/JmZmZmZmaIz/wAAAAAAAAIz/JmZmZmZmaIz/JmZmZmZma0jQ1NjdaJGNsYXNzbmFtZVgkY2xhc3Nlc1xOU0RpY3Rpb25hcnmiNjhYTlNPYmplY3TSCjo7PF8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBiAEtMREgo+QUSiP0CAE4AUokJDgBWAFoAXXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQDGAAAAAAABfEBBPcGVuU2Fucy1SZWd1bGFy0jQ1SktfEBNOU011dGFibGVEaWN0aW9uYXJ5o0o2ONI0NU1OXxAQTlNGb250RGVzY3JpcHRvcqJPOF8QEE5TRm9udERlc2NyaXB0b3LUUVJTClRVVldaTlNUYWJTdG9wc1tOU0FsaWdubWVudF8QH05TQWxsb3dzVGlnaHRlbmluZ0ZvclRydW5jYXRpb26AABAEEAGAGtI0NVlaXxAQTlNQYXJhZ3JhcGhTdHlsZaJZONI0NVxdXxASTlNBdHRyaWJ1dGVkU3RyaW5nol44XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0WFiVHJvb3SAAQAIABEAGgAjAC0AMgA3AFYAXABjAGwAcwCAAIIAhACGAcQBywHTAd4B4gHkAeYB6AHsAe4B8AHyAfQCIQJDAlYCXQJiAmQCZgJoAmoCbwJxAnMCdQJ3AnkCfQKDAogCjgKXAqACqQKyArcCwgLLAtgC2wLkAukDBgMIAwoDEQMUAxYDGAMbAx0DHwMhAzcDTQNWA2kDbgOEA4gDjQOgA6MDtgO/A8oD1gP4A/oD/AP+BAAEBQQYBBsEIAQ1BDgETQRfBGIEZwAAAAAAAAIBAAAAAAAAAGMAAAAAAAAAAAAAAAAAAARp"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "9450DCD2-84F7-4E04-8DD0-80936EE10956",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 96,
+    "width": 749,
+    "x": 75,
+    "y": 38
+  },
+  "glyphBounds": "{{0, 5}, {747, 91}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "The purpose of a ful",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorDictionaryAttribute": {
+          "alpha": 1,
+          "blue": 0.2,
+          "green": 0.2,
+          "red": 0.2
+        },
+        "MSAttributedStringFontAttribute": {
+          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAMYAAAAAAAF8QEE9wZW5TYW5zLVJlZ3VsYXLSHB0eH1okY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaMeICFcTlNEaWN0aW9uYXJ5WE5TT2JqZWN00hwdIyRfEBBOU0ZvbnREZXNjcmlwdG9yoiUhXxAQTlNGb250RGVzY3JpcHRvcl8QD05TS2V5ZWRBcmNoaXZlctEoKVRyb290gAEACAARABoAIwAtADIANwBBAEcATABTAHAAcgB0AHsAgwCOAJEAkwCVAJgAmgCcAJ4AtADKANMA5gDrAPYA/wEVARkBJgEvATQBRwFKAV0BbwFyAXcAAAAAAAACAQAAAAAAAAAqAAAAAAAAAAAAAAAAAAABeQ=="
+        },
+        "paragraphStyle": {
+          "_archive": "YnBsaXN0MDDUAQIDBAUGFxhYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKMHCBFVJG51bGzUCQoLDA0ODxBaTlNUYWJTdG9wc1tOU0FsaWdubWVudF8QH05TQWxsb3dzVGlnaHRlbmluZ0ZvclRydW5jYXRpb25WJGNsYXNzgAAQBBABgALSEhMUFVokY2xhc3NuYW1lWCRjbGFzc2VzXxAQTlNQYXJhZ3JhcGhTdHlsZaIUFlhOU09iamVjdF8QD05TS2V5ZWRBcmNoaXZlctEZGlRyb290gAEIERojLTI3O0FKVWGDioyOkJKXoqu+wcrc3+QAAAAAAAABAQAAAAAAAAAbAAAAAAAAAAAAAAAAAAAA5g=="
+        }
+      },
+      "verticalAlignment": 0
+    }
+  },
+  "textBehaviour": 1
+}

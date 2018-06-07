@@ -1,58 +1,10 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "attributedString",
-    "attributes": [
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.231372549,
-            "green": 0.4274509804,
-            "red": 0.5411764706
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "HelveticaNeue-Bold",
-              "size": 16
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle"
-          }
-        },
-        "length": 9,
-        "location": 0
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.231372549,
-            "green": 0.4274509804,
-            "red": 0.5411764706
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "HelveticaNeue",
-              "size": 16
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle"
-          }
-        },
-        "length": 133,
-        "location": 9
-      }
-    ],
-    "string": "Pending: SocArXiv is a pre-moderation provider, therefore this preprint is not publicly available or searchable until approved by a moderator."
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGmptYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QKQcIERIYIyQlJjIzNDU2Nzg5OkBETE1OT1BTV19ibHh5ent+hoeKjpKWVSRudWxs1AkKCwwNDg8QWE5TU3RyaW5nXxAPTlNBdHRyaWJ1dGVJbmZvXE5TQXR0cmlidXRlc1YkY2xhc3OAAoAmgAOAKF8QjlBlbmRpbmc6IFNvY0FyWGl2IGlzIGEgcHJlLW1vZGVyYXRpb24gcHJvdmlkZXIsIHRoZXJlZm9yZSB0aGlzIHByZXByaW50IGlzIG5vdCBwdWJsaWNseSBhdmFpbGFibGUgb3Igc2VhcmNoYWJsZSB1bnRpbCBhcHByb3ZlZCBieSBhIG1vZGVyYXRvci7SEwwUF1pOUy5vYmplY3RzohUWgASAHIAl0xkTDBoeIldOUy5rZXlzoxscHYAFgAaAB6MfICGACIASgBqAEV8QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfEBBOU1BhcmFncmFwaFN0eWxl0xkTDCcsIqQoKSorgAmACoALgAykLS4vMIANgA6AD4AQgBFTcmVkVWFscGhhVGJsdWVVZ3JlZW4jP+FRUVFS70AjP/AAAAAAAAAjP82dnZ2S1g8jP9tbW1tdg0XSOzw9PlokY2xhc3NuYW1lWCRjbGFzc2VzXE5TRGljdGlvbmFyeaI9P1hOU09iamVjdNIMQUJDXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAGYAT0xkTDEVIS6JGR4AUgBWiSUqAFoAXgBhfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRAQXxASSGVsdmV0aWNhTmV1ZS1Cb2xk0js8UVJfEBNOU011dGFibGVEaWN0aW9uYXJ5o1E9P9I7PFRVXxAQTlNGb250RGVzY3JpcHRvcqJWP18QEE5TRm9udERlc2NyaXB0b3LUWFlaDFtcXV5aTlNUYWJTdG9wc1tOU0FsaWdubWVudF8QH05TQWxsb3dzVGlnaHRlbmluZ0ZvclRydW5jYXRpb26AABAEEAGAG9I7PGBhXxAQTlNQYXJhZ3JhcGhTdHlsZaJgP9MZEwxjZyKjGxwdgAWABoAHo2hpaoAdgCGAJIAR0xkTDG1yIqQoKSorgAmACoALgAykcy51doAegA6AH4AggBEjP+FRUVFS70AjP82dnZ2S1g8jP9tbW1tdg0XSDEFCfYAZgCLTGRMMf4JLokZHgBSAFaJJhIAWgCOAGF1IZWx2ZXRpY2FOZXVl1FhZWgxbXF1egACAG9I7PIuMXk5TTXV0YWJsZUFycmF5o4uNP1dOU0FycmF50o8MkJFXTlMuZGF0YUUJAIUBAYAn0js8k5RdTlNNdXRhYmxlRGF0YaOTlT9WTlNEYXRh0js8l5hfEBJOU0F0dHJpYnV0ZWRTdHJpbmeimT9fEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRnJ1Ucm9vdIABAAgAEQAaACMALQAyADcAYwBpAHIAewCNAJoAoQCjAKUApwCpAToBPwFKAU0BTwFRAVMBWgFiAWYBaAFqAWwBcAFyAXQBdgF4AaUBxwHaAeEB5gHoAeoB7AHuAfMB9QH3AfkB+wH9AgECBwIMAhICGwIkAi0CNgI7AkYCTwJcAl8CaAJtAooCjAKOApUCmAKaApwCnwKhAqMCpQK7AtEC0wLoAu0DAwMHAwwDHwMiAzUDPgNJA1UDdwN5A3sDfQN/A4QDlwOaA6EDpQOnA6kDqwOvA7EDswO1A7cDvgPDA8UDxwPJA8sD0APSA9QD1gPYA9oD4wPsA/UD+gP8A/4EBQQIBAoEDAQPBBEEEwQVBCMELAQuBDAENQREBEgEUARVBF0EYwRlBGoEeAR8BIMEiASdBKAEtQTHBMoEzwAAAAAAAAIBAAAAAAAAAJ4AAAAAAAAAAAAAAAAAAATR"
+    }
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "F47DD6F6-6328-477D-B947-0584F016F401",
@@ -103,14 +55,10 @@
           "red": 0.5411764706
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
-          "attributes": {
-            "name": "HelveticaNeue-Bold",
-            "size": 16
-          }
+          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRAQXxASSGVsdmV0aWNhTmV1ZS1Cb2xk0hwdHh9aJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjHiAhXE5TRGljdGlvbmFyeVhOU09iamVjdNIcHSMkXxAQTlNGb250RGVzY3JpcHRvcqIlIV8QEE5TRm9udERlc2NyaXB0b3JfEA9OU0tleWVkQXJjaGl2ZXLRKClUcm9vdIABAAgAEQAaACMALQAyADcAQQBHAEwAUwBwAHIAdAB7AIMAjgCRAJMAlQCYAJoAnACeALQAygDMAOEA5gDxAPoBEAEUASEBKgEvAUIBRQFYAWoBbQFyAAAAAAAAAgEAAAAAAAAAKgAAAAAAAAAAAAAAAAAAAXQ="
         },
         "paragraphStyle": {
-          "_class": "paragraphStyle"
+          "_archive": "YnBsaXN0MDDUAQIDBAUGFxhYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKMHCBFVJG51bGzUCQoLDA0ODxBaTlNUYWJTdG9wc1tOU0FsaWdubWVudF8QH05TQWxsb3dzVGlnaHRlbmluZ0ZvclRydW5jYXRpb25WJGNsYXNzgAAQBBABgALSEhMUFVokY2xhc3NuYW1lWCRjbGFzc2VzXxAQTlNQYXJhZ3JhcGhTdHlsZaIUFlhOU09iamVjdF8QD05TS2V5ZWRBcmNoaXZlctEZGlRyb290gAEIERojLTI3O0FKVWGDioyOkJKXoqu+wcrc3+QAAAAAAAABAQAAAAAAAAAbAAAAAAAAAAAAAAAAAAAA5g=="
         }
       },
       "verticalAlignment": 0

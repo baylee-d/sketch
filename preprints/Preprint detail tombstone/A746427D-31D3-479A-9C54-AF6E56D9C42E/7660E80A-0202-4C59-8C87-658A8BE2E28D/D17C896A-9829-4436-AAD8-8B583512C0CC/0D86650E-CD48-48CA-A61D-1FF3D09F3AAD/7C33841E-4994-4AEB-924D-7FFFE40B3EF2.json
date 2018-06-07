@@ -1,94 +1,10 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "attributedString",
-    "attributes": [
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.9882352941,
-            "green": 0.9882352941,
-            "red": 0.9882352941
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "OpenSans",
-              "size": 14
-            }
-          }
-        },
-        "length": 15,
-        "location": 0
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.8705882353,
-            "green": 0.8196078431,
-            "red": 0.4274509804
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "OpenSans",
-              "size": 14
-            }
-          }
-        },
-        "length": 12,
-        "location": 15
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "OpenSans",
-              "size": 14
-            }
-          }
-        },
-        "length": 1,
-        "location": 27
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.9882352941,
-            "green": 0.9882352941,
-            "red": 0.9882352941
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "OpenSans",
-              "size": 14
-            }
-          }
-        },
-        "length": 11,
-        "location": 28
-      }
-    ],
-    "string": "Marlon Twyman, Brian Keegan, Aaron Shaw"
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGpqdYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QKAcIERIZIiMkMDEyMzQ1Njc4PkJKS0xNTlFVXWlqa2xvd3+LjpaanqJVJG51bGzUCQoLDA0ODxBYTlNTdHJpbmdfEA9OU0F0dHJpYnV0ZUluZm9cTlNBdHRyaWJ1dGVzViRjbGFzc4ACgCWAA4AnXxAnTWFybG9uIFR3eW1hbiwgQnJpYW4gS2VlZ2FuLCBBYXJvbiBTaGF30hMMFBhaTlMub2JqZWN0c6MVFheABIAZgCCAJNMaEwwbHiFXTlMua2V5c6IcHYAFgAaiHyCAB4ARgBBfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRl0xoTDCUqIaQmJygpgAiACYAKgAukKywtLoAMgA2ADoAPgBBTcmVkVWFscGhhVGJsdWVVZ3JlZW4jP++fn5+dMrkjP/AAAAAAAAAjP++fn5+dMrkjP++fn5+dMrnSOTo7PFokY2xhc3NuYW1lWCRjbGFzc2VzXE5TRGljdGlvbmFyeaI7PVhOU09iamVjdNIMP0BBXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAGIAS0xoTDENGSaJERYATgBSiR0iAFYAWgBdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRAOWE9wZW5TYW5z0jk6T1BfEBNOU011dGFibGVEaWN0aW9uYXJ5o087PdI5OlJTXxAQTlNGb250RGVzY3JpcHRvcqJUPV8QEE5TRm9udERlc2NyaXB0b3LTGhMMVlkhohwdgAWABqJaW4AagB6AENMaEwxeYyGkJicoKYAIgAmACoALpGQsZmeAG4ANgByAHYAQIz/bW1tbXYNFIz/r29vb3KrTIz/qOjo6NRtw0gw/QG6AGIAf0xoTDHBzSaJERYATgBSiR0iAFYAWgBfTGhMMeHshohwdgAWABqJ8fYAhgCKAENMaEwyAhSGkJicoKYAIgAmACoALpCwsLCyADYANgA2ADYAQ0gw/QI2AGIAj0xoTDI+SSaJERYATgBSiR0iAFYAWgBfSOTqXmF5OU011dGFibGVBcnJheaOXmT1XTlNBcnJhedKbDJydV05TLmRhdGFIDwAMAQECCwCAJtI5Op+gXU5TTXV0YWJsZURhdGGjn6E9Vk5TRGF0YdI5OqOkXxASTlNBdHRyaWJ1dGVkU3RyaW5noqU9XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0aipVHJvb3SAAQAIABEAGgAjAC0AMgA3AGIAaABxAHoAjACZAKAAogCkAKYAqADSANcA4gDmAOgA6gDsAO4A9QD9AQABAgEEAQcBCQELAQ0BOgFcAWMBaAFqAWwBbgFwAXUBdwF5AXsBfQF/AYMBiQGOAZQBnQGmAa8BuAG9AcgB0QHeAeEB6gHvAgwCDgIQAhcCGgIcAh4CIQIjAiUCJwI9AlMCVQJeAmMCeQJ9AoIClQKYAqsCsgK1ArcCuQK8Ar4CwALCAskCzgLQAtIC1ALWAtsC3QLfAuEC4wLlAu4C9wMAAwUDBwMJAxADEwMVAxcDGgMcAx4DIAMnAyoDLAMuAzEDMwM1AzcDPgNDA0UDRwNJA0sDUANSA1QDVgNYA1oDXwNhA2MDagNtA28DcQN0A3YDeAN6A38DjgOSA5oDnwOnA7ADsgO3A8UDyQPQA9UD6gPtBAIEFAQXBBwAAAAAAAACAQAAAAAAAACqAAAAAAAAAAAAAAAAAAAEHg=="
+    }
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "7C33841E-4994-4AEB-924D-7FFFE40B3EF2",
@@ -139,11 +55,7 @@
           "red": 0.9882352941
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
-          "attributes": {
-            "name": "OpenSans",
-            "size": 14
-          }
+          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRAOWE9wZW5TYW5z0hwdHh9aJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjHiAhXE5TRGljdGlvbmFyeVhOU09iamVjdNIcHSMkXxAQTlNGb250RGVzY3JpcHRvcqIlIV8QEE5TRm9udERlc2NyaXB0b3JfEA9OU0tleWVkQXJjaGl2ZXLRKClUcm9vdIABAAgAEQAaACMALQAyADcAQQBHAEwAUwBwAHIAdAB7AIMAjgCRAJMAlQCYAJoAnACeALQAygDMANUA2gDlAO4BBAEIARUBHgEjATYBOQFMAV4BYQFmAAAAAAAAAgEAAAAAAAAAKgAAAAAAAAAAAAAAAAAAAWg="
         }
       },
       "verticalAlignment": 0

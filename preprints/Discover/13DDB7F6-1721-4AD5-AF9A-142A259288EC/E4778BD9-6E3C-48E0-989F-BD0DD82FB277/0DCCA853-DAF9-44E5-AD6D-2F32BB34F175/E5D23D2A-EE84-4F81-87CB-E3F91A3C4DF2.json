@@ -1,35 +1,10 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "attributedString",
-    "attributes": [
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.2,
-            "green": 0.2,
-            "red": 0.2
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "OpenSans-Light",
-              "size": 14
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0
-          }
-        },
-        "length": 29,
-        "location": 0
-      }
-    ],
-    "string": "Yoav Bar-Anan, Brian A. Nosek"
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGXV5YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHAcIDxAcHR4fKywtLi8wMTIzOT1FRkdISUxQVllVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAbgANfEB1Zb2F2IEJhci1BbmFuLCBCcmlhbiBBLiBOb3Nla9MREgoTFxtXTlMua2V5c1pOUy5vYmplY3RzoxQVFoAEgAWABqMYGRqAB4ARgBmAEF8QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfEBBOU1BhcmFncmFwaFN0eWxl0xESCiAlG6QhIiMkgAiACYAKgAukJicoKYAMgA2ADoAPgBBTcmVkVWFscGhhVGJsdWVVZ3JlZW4jP8mZmZmZmZojP/AAAAAAAAAjP8mZmZmZmZojP8mZmZmZmZrSNDU2N1okY2xhc3NuYW1lWCRjbGFzc2VzXE5TRGljdGlvbmFyeaI2OFhOU09iamVjdNIKOjs8XxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAGIAS0xESCj5BRKI/QIATgBSiQkOAFYAWgBdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRAOXk9wZW5TYW5zLUxpZ2h00jQ1SktfEBNOU011dGFibGVEaWN0aW9uYXJ5o0o2ONI0NU1OXxAQTlNGb250RGVzY3JpcHRvcqJPOF8QEE5TRm9udERlc2NyaXB0b3LTUQpSU1RVXxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvblpOU1RhYlN0b3BzEAGAGoAA0jQ1V1hfEBBOU1BhcmFncmFwaFN0eWxlolc40jQ1WltfEBJOU0F0dHJpYnV0ZWRTdHJpbmeiXDhfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRX2BUcm9vdIABAAgAEQAaACMALQAyADcAVgBcAGMAbABzAIAAggCEAIYApgCtALUAwADEAMYAyADKAM4A0ADSANQA1gEDASUBOAE/AUQBRgFIAUoBTAFRAVMBVQFXAVkBWwFfAWUBagFwAXkBggGLAZQBmQGkAa0BugG9AcYBywHoAeoB7AHzAfYB+AH6Af0B/wIBAgMCGQIvAjECQAJFAlsCXwJkAncCegKNApQCtgLBAsMCxQLHAswC3wLiAucC/AL/AxQDJgMpAy4AAAAAAAACAQAAAAAAAABhAAAAAAAAAAAAAAAAAAADMA=="
+    }
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "E5D23D2A-EE84-4F81-87CB-E3F91A3C4DF2",
@@ -80,15 +55,10 @@
           "red": 0.2
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
-          "attributes": {
-            "name": "OpenSans-Light",
-            "size": 14
-          }
+          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRAOXk9wZW5TYW5zLUxpZ2h00hwdHh9aJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjHiAhXE5TRGljdGlvbmFyeVhOU09iamVjdNIcHSMkXxAQTlNGb250RGVzY3JpcHRvcqIlIV8QEE5TRm9udERlc2NyaXB0b3JfEA9OU0tleWVkQXJjaGl2ZXLRKClUcm9vdIABAAgAEQAaACMALQAyADcAQQBHAEwAUwBwAHIAdAB7AIMAjgCRAJMAlQCYAJoAnACeALQAygDMANsA4ADrAPQBCgEOARsBJAEpATwBPwFSAWQBZwFsAAAAAAAAAgEAAAAAAAAAKgAAAAAAAAAAAAAAAAAAAW4="
         },
         "paragraphStyle": {
-          "_class": "paragraphStyle",
-          "alignment": 0
+          "_archive": "YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKMHCA9VJG51bGzTCQoLDA0OXxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvblYkY2xhc3NaTlNUYWJTdG9wcxABgAKAANIQERITWiRjbGFzc25hbWVYJGNsYXNzZXNfEBBOU1BhcmFncmFwaFN0eWxlohIUWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc7QUhqcXx+gIKHkpuusbrMz9QAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAA1g=="
         }
       },
       "verticalAlignment": 0

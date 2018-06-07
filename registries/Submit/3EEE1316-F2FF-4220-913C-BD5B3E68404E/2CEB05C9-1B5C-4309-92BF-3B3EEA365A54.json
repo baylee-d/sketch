@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "2CEB05C9-1B5C-4309-92BF-3B3EEA365A54",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "964FE68C-624F-4CEA-847A-49C675322306",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "28104CF7-71DA-45EF-902B-05179F0E16D7",
+    "height": 51,
+    "width": 1440,
+    "x": 2,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "navbar/registries",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4A8E1E9D-6D87-4773-86F1-D8950B864236",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "16C4439A-188D-4816-891F-13CAF67BC35A",
+  "verticalSpacing": 0
+}

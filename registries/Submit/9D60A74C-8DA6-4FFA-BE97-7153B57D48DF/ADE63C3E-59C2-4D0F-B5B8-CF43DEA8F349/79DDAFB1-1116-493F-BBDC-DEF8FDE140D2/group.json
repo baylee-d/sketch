@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "do_objectID": "79DDAFB1-1116-493F-BBDC-DEF8FDE140D2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2253EE40-E516-4A3A-B5D4-9EF629A55956",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FC4715BB-9D79-4934-A07A-1868FE30215E",
+    "height": 140,
+    "width": 689,
+    "x": 36,
+    "y": 234
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "198B2394-3C1A-4B83-93AF-FF5F977CE7FA"
+    },
+    {
+      "class": "text",
+      "id": "DEF0AEC9-18AC-442A-AB0E-652DF03758E8"
+    },
+    {
+      "class": "group",
+      "id": "1715A447-61E5-4045-99FD-674EDE082DE1"
+    },
+    {
+      "class": "group",
+      "id": "657A42B6-17E7-441F-997F-AACEE2223BB2"
+    }
+  ],
+  "name": "socialPsychology",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E26FD1E3-7728-4AE1-84AB-85F39F910377",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,37 +1,10 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "attributedString",
-    "attributes": [
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.9882352941,
-            "green": 0.9882352941,
-            "red": 0.9882352941
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "OpenSans-Light",
-              "size": 36
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 38,
-            "minimumLineHeight": 38
-          }
-        },
-        "length": 68,
-        "location": 0
-      }
-    ],
-    "string": "The Review Of Disinter-mediation Strategies In Two Sided Marketplace"
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGYGFYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHAcIDxAcHR4fKywtLi8wMTIzOT1FRkdISUxQWVxVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAbgANfEERUaGUgUmV2aWV3IE9mIERpc2ludGVyLW1lZGlhdGlvbiBTdHJhdGVnaWVzIEluIFR3byBTaWRlZCBNYXJrZXRwbGFjZdMREgoTFxtXTlMua2V5c1pOUy5vYmplY3RzoxQVFoAEgAWABqMYGRqAB4ARgBmAEF8QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfEBBOU1BhcmFncmFwaFN0eWxl0xESCiAlG6QhIiMkgAiACYAKgAukJicoKYAMgA2ADoAPgBBTcmVkVWFscGhhVGJsdWVVZ3JlZW4jP++fn5+dMrkjP/AAAAAAAAAjP++fn5+dMrkjP++fn5+dMrnSNDU2N1okY2xhc3NuYW1lWCRjbGFzc2VzXE5TRGljdGlvbmFyeaI2OFhOU09iamVjdNIKOjs8XxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAGIAS0xESCj5BRKI/QIATgBSiQkOAFYAWgBdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRAkXk9wZW5TYW5zLUxpZ2h00jQ1SktfEBNOU011dGFibGVEaWN0aW9uYXJ5o0o2ONI0NU1OXxAQTlNGb250RGVzY3JpcHRvcqJPOF8QEE5TRm9udERlc2NyaXB0b3LVUVJTClRVVldYV1tOU0FsaWdubWVudFpOU1RhYlN0b3BzXxAPTlNNaW5MaW5lSGVpZ2h0XxAPTlNNYXhMaW5lSGVpZ2h0EASAACNAQwAAAAAAAIAa0jQ1WltfEBBOU1BhcmFncmFwaFN0eWxlolo40jQ1XV5fEBJOU0F0dHJpYnV0ZWRTdHJpbmeiXzhfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRYmNUcm9vdIABAAgAEQAaACMALQAyADcAVgBcAGMAbABzAIAAggCEAIYAzQDUANwA5wDrAO0A7wDxAPUA9wD5APsA/QEqAUwBXwFmAWsBbQFvAXEBcwF4AXoBfAF+AYABggGGAYwBkQGXAaABqQGyAbsBwAHLAdQB4QHkAe0B8gIPAhECEwIaAh0CHwIhAiQCJgIoAioCQAJWAlgCZwJsAoIChgKLAp4CoQK0Ar8CywLWAugC+gL8Av4DBwMJAw4DIQMkAykDPgNBA1YDaANrA3AAAAAAAAACAQAAAAAAAABkAAAAAAAAAAAAAAAAAAADcg=="
+    }
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "214905A8-0567-49E9-83C3-E7A23DE09BE2",
@@ -82,17 +55,10 @@
           "red": 0.9882352941
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
-          "attributes": {
-            "name": "OpenSans-Light",
-            "size": 36
-          }
+          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRAkXk9wZW5TYW5zLUxpZ2h00hwdHh9aJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjHiAhXE5TRGljdGlvbmFyeVhOU09iamVjdNIcHSMkXxAQTlNGb250RGVzY3JpcHRvcqIlIV8QEE5TRm9udERlc2NyaXB0b3JfEA9OU0tleWVkQXJjaGl2ZXLRKClUcm9vdIABAAgAEQAaACMALQAyADcAQQBHAEwAUwBwAHIAdAB7AIMAjgCRAJMAlQCYAJoAnACeALQAygDMANsA4ADrAPQBCgEOARsBJAEpATwBPwFSAWQBZwFsAAAAAAAAAgEAAAAAAAAAKgAAAAAAAAAAAAAAAAAAAW4="
         },
         "paragraphStyle": {
-          "_class": "paragraphStyle",
-          "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 38,
-          "minimumLineHeight": 38
+          "_archive": "YnBsaXN0MDDUAQIDBAUGGBlYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKMHCBJVJG51bGzVCQoLDA0ODxAREFtOU0FsaWdubWVudFpOU1RhYlN0b3BzXxAPTlNNaW5MaW5lSGVpZ2h0ViRjbGFzc18QD05TTWF4TGluZUhlaWdodBAEgAAjQEMAAAAAAACAAtITFBUWWiRjbGFzc25hbWVYJGNsYXNzZXNfEBBOU1BhcmFncmFwaFN0eWxlohUXWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RobVHJvb3SAAQgRGiMtMjc7QUxYY3V8jpCSm52irbbJzNXn6u8AAAAAAAABAQAAAAAAAAAcAAAAAAAAAAAAAAAAAAAA8Q=="
         }
       },
       "verticalAlignment": 0

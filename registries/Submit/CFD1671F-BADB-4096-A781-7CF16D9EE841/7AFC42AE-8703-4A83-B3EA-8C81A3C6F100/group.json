@@ -1,0 +1,92 @@
+{
+  "_class": "group",
+  "do_objectID": "7AFC42AE-8703-4A83-B3EA-8C81A3C6F100",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "09B3E791-8C39-4AD7-AD4F-7ED5916DAE30",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D9163F9D-D50C-46B5-A99D-320583B73436",
+    "height": 662,
+    "width": 833,
+    "x": 314,
+    "y": 557
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "7D89279A-9219-4AED-8731-016E21E3922C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0CB4952A-E7C4-4DB8-8102-941C94367E08"
+    },
+    {
+      "class": "text",
+      "id": "391BFC85-AD33-4184-8C9B-8552DE07BADB"
+    },
+    {
+      "class": "text",
+      "id": "0772B81C-E921-47F0-952F-EA5ED0331E32"
+    },
+    {
+      "class": "text",
+      "id": "589AD6C7-251E-47F0-AAA6-A4E12302B270"
+    },
+    {
+      "class": "text",
+      "id": "F5668EBC-8F07-4151-B725-CC5B8F154017"
+    },
+    {
+      "class": "text",
+      "id": "D2D12F68-A488-499F-9EDF-24D35222C569"
+    },
+    {
+      "class": "text",
+      "id": "EB950F93-E6D2-478C-83A3-209170029522"
+    },
+    {
+      "class": "text",
+      "id": "3E3CD648-80D0-4E60-AAC8-55514F146D7A"
+    },
+    {
+      "class": "group",
+      "id": "EFE6F799-BF3F-41BC-A409-5E278B80A7D5"
+    },
+    {
+      "class": "group",
+      "id": "E25656DA-2E2A-493F-BB40-348B0132A28A"
+    },
+    {
+      "class": "text",
+      "id": "9059459B-3072-458C-B414-C24C3E20E0F2"
+    }
+  ],
+  "name": "registrationDetail",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8F31515B-4CAF-4735-884F-77BF195F16BF",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

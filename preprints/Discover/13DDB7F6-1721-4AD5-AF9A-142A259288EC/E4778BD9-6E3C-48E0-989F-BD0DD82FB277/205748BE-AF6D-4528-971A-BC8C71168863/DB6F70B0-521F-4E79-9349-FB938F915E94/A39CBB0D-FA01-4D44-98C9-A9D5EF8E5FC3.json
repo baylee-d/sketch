@@ -1,31 +1,10 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "attributedString",
-    "attributes": [
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.2,
-            "green": 0.2,
-            "red": 0.2
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "HelveticaNeue-LightItalic",
-              "size": 14
-            }
-          }
-        },
-        "length": 12,
-        "location": 0
-      }
-    ],
-    "string": "May 31, 2017"
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGUVJYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGQcIDxAaGxwoKSorLC0uLzA2OkJDREVGSU1VJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAYgANcTWF5IDMxLCAyMDE30xESChMWGVdOUy5rZXlzWk5TLm9iamVjdHOiFBWABIAFohcYgAaAEIAPXxAqTVNBdHRyaWJ1dGVkU3RyaW5nQ29sb3JEaWN0aW9uYXJ5QXR0cmlidXRlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZdMREgodIhmkHh8gIYAHgAiACYAKpCMkJSaAC4AMgA2ADoAPU3JlZFVhbHBoYVRibHVlVWdyZWVuIz/JmZmZmZmaIz/wAAAAAAAAIz/JmZmZmZmaIz/JmZmZmZma0jEyMzRaJGNsYXNzbmFtZVgkY2xhc3Nlc1xOU0RpY3Rpb25hcnmiMzVYTlNPYmplY3TSCjc4OV8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBeAEdMREgo7PkGiPD2AEoAToj9AgBSAFYAWXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUQDl8QGUhlbHZldGljYU5ldWUtTGlnaHRJdGFsaWPSMTJHSF8QE05TTXV0YWJsZURpY3Rpb25hcnmjRzM10jEySktfEBBOU0ZvbnREZXNjcmlwdG9yokw1XxAQTlNGb250RGVzY3JpcHRvctIxMk5PXxASTlNBdHRyaWJ1dGVkU3RyaW5nolA1XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0VNUVHJvb3SAAQAIABEAGgAjAC0AMgA3AFMAWQBgAGkAcAB9AH8AgQCDAJAAlwCfAKoArQCvALEAtAC2ALgAugDnAQkBEAEVARcBGQEbAR0BIgEkASYBKAEqASwBMAE2ATsBQQFKAVMBXAFlAWoBdQF+AYsBjgGXAZwBuQG7Ab0BxAHHAckBywHOAdAB0gHUAeoCAAICAh4CIwI5Aj0CQgJVAlgCawJwAoUCiAKdAq8CsgK3AAAAAAAAAgEAAAAAAAAAVQAAAAAAAAAAAAAAAAAAArk="
+    }
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "A39CBB0D-FA01-4D44-98C9-A9D5EF8E5FC3",
@@ -76,11 +55,7 @@
           "red": 0.2
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
-          "attributes": {
-            "name": "HelveticaNeue-LightItalic",
-            "size": 14
-          }
+          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRAOXxAZSGVsdmV0aWNhTmV1ZS1MaWdodEl0YWxpY9IcHR4fWiRjbGFzc25hbWVYJGNsYXNzZXNfEBNOU011dGFibGVEaWN0aW9uYXJ5ox4gIVxOU0RpY3Rpb25hcnlYTlNPYmplY3TSHB0jJF8QEE5TRm9udERlc2NyaXB0b3KiJSFfEBBOU0ZvbnREZXNjcmlwdG9yXxAPTlNLZXllZEFyY2hpdmVy0SgpVHJvb3SAAQAIABEAGgAjAC0AMgA3AEEARwBMAFMAcAByAHQAewCDAI4AkQCTAJUAmACaAJwAngC0AMoAzADoAO0A+AEBARcBGwEoATEBNgFJAUwBXwFxAXQBeQAAAAAAAAIBAAAAAAAAACoAAAAAAAAAAAAAAAAAAAF7"
         }
       },
       "verticalAlignment": 0

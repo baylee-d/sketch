@@ -1,36 +1,10 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "attributedString",
-    "attributes": [
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.2902374566,
-            "green": 0.2901752889,
-            "red": 0.2902216315
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "HelveticaNeue",
-              "size": 14
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "allowsDefaultTighteningForTruncation": 0,
-            "paragraphSpacing": 10
-          }
-        },
-        "length": 349,
-        "location": 0
-      }
-    ],
-    "string": "Social movements use social computing systems to complement offline mobilizations, but prior literature has focused almost exclusively on movement actors' use of social media. In this paper, we analyze participation and attention to topics connected with the Black Lives Matter movement in the English language version of Wikipedia between 2014 and…"
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGX2BYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHAcIDxAcHR4fKywtLi8wMTIzOT1FRkdISUxQWFtVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAbgANvEQFdAFMAbwBjAGkAYQBsACAAbQBvAHYAZQBtAGUAbgB0AHMAIAB1AHMAZQAgAHMAbwBjAGkAYQBsACAAYwBvAG0AcAB1AHQAaQBuAGcAIABzAHkAcwB0AGUAbQBzACAAdABvACAAYwBvAG0AcABsAGUAbQBlAG4AdAAgAG8AZgBmAGwAaQBuAGUAIABtAG8AYgBpAGwAaQB6AGEAdABpAG8AbgBzACwAIABiAHUAdAAgAHAAcgBpAG8AcgAgAGwAaQB0AGUAcgBhAHQAdQByAGUAIABoAGEAcwAgAGYAbwBjAHUAcwBlAGQAIABhAGwAbQBvAHMAdAAgAGUAeABjAGwAdQBzAGkAdgBlAGwAeQAgAG8AbgAgAG0AbwB2AGUAbQBlAG4AdAAgAGEAYwB0AG8AcgBzACcAIAB1AHMAZQAgAG8AZgAgAHMAbwBjAGkAYQBsACAAbQBlAGQAaQBhAC4AIABJAG4AIAB0AGgAaQBzACAAcABhAHAAZQByACwAIAB3AGUAIABhAG4AYQBsAHkAegBlACAAcABhAHIAdABpAGMAaQBwAGEAdABpAG8AbgAgAGEAbgBkACAAYQB0AHQAZQBuAHQAaQBvAG4AIAB0AG8AIAB0AG8AcABpAGMAcwAgAGMAbwBuAG4AZQBjAHQAZQBkACAAdwBpAHQAaAAgAHQAaABlACAAQgBsAGEAYwBrACAATABpAHYAZQBzACAATQBhAHQAdABlAHIAIABtAG8AdgBlAG0AZQBuAHQAIABpAG4AIAB0AGgAZQAgAEUAbgBnAGwAaQBzAGgAIABsAGEAbgBnAHUAYQBnAGUAIAB2AGUAcgBzAGkAbwBuACAAbwBmACAAVwBpAGsAaQBwAGUAZABpAGEAIABiAGUAdAB3AGUAZQBuACAAMgAwADEANAAgAGEAbgBkICbTERIKExcbV05TLmtleXNaTlMub2JqZWN0c6MUFRaABIAFgAajGBkagAeAEYAZgBBfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAQTlNQYXJhZ3JhcGhTdHlsZdMREgogJRukISIjJIAIgAmACoALpCYnKCmADIANgA6AD4AQU3JlZFVhbHBoYVRibHVlVWdyZWVuIz/Skv2/+JfGIz/wAAAAAAAAIz/Sk0AgCvVCIz/Skjtf+7PY0jQ1NjdaJGNsYXNzbmFtZVgkY2xhc3Nlc1xOU0RpY3Rpb25hcnmiNjhYTlNPYmplY3TSCjo7PF8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBiAEtMREgo+QUSiP0CAE4AUokJDgBWAFoAXXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUQDl1IZWx2ZXRpY2FOZXVl0jQ1SktfEBNOU011dGFibGVEaWN0aW9uYXJ5o0o2ONI0NU1OXxAQTlNGb250RGVzY3JpcHRvcqJPOF8QEE5TRm9udERlc2NyaXB0b3LUUVJTClRVVldfEBJOU1BhcmFncmFwaFNwYWNpbmdaTlNUYWJTdG9wc1tOU0FsaWdubWVudCNAJAAAAAAAAIAAEASAGtI0NVlaXxAQTlNQYXJhZ3JhcGhTdHlsZaJZONI0NVxdXxASTlNBdHRyaWJ1dGVkU3RyaW5nol44XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0WFiVHJvb3SAAQAIABEAGgAjAC0AMgA3AFYAXABjAGwAcwCAAIIAhACGA0QDSwNTA14DYgNkA2YDaANsA24DcANyA3QDoQPDA9YD3QPiA+QD5gPoA+oD7wPxA/MD9QP3A/kD/QQDBAgEDgQXBCAEKQQyBDcEQgRLBFgEWwRkBGkEhgSIBIoEkQSUBJYEmASbBJ0EnwShBLcEzQTPBN0E4gT4BPwFAQUUBRcFKgUzBUgFUwVfBWgFagVsBW4FcwWGBYkFjgWjBaYFuwXNBdAF1QAAAAAAAAIBAAAAAAAAAGMAAAAAAAAAAAAAAAAAAAXX"
+    }
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "BBCC2E32-A52C-4E1D-B371-09F8C1004E86",
@@ -81,16 +55,10 @@
           "red": 0.2902216315
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
-          "attributes": {
-            "name": "HelveticaNeue",
-            "size": 14
-          }
+          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRAOXUhlbHZldGljYU5ldWXSHB0eH1okY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaMeICFcTlNEaWN0aW9uYXJ5WE5TT2JqZWN00hwdIyRfEBBOU0ZvbnREZXNjcmlwdG9yoiUhXxAQTlNGb250RGVzY3JpcHRvcl8QD05TS2V5ZWRBcmNoaXZlctEoKVRyb290gAEACAARABoAIwAtADIANwBBAEcATABTAHAAcgB0AHsAgwCOAJEAkwCVAJgAmgCcAJ4AtADKAMwA2gDfAOoA8wEJAQ0BGgEjASgBOwE+AVEBYwFmAWsAAAAAAAACAQAAAAAAAAAqAAAAAAAAAAAAAAAAAAABbQ=="
         },
         "paragraphStyle": {
-          "_class": "paragraphStyle",
-          "allowsDefaultTighteningForTruncation": 0,
-          "paragraphSpacing": 10
+          "_archive": "YnBsaXN0MDDUAQIDBAUGFxhYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKMHCBFVJG51bGzUCQoLDA0ODxBfEBJOU1BhcmFncmFwaFNwYWNpbmdaTlNUYWJTdG9wc1tOU0FsaWdubWVudFYkY2xhc3MjQCQAAAAAAACAABAEgALSEhMUFVokY2xhc3NuYW1lWCRjbGFzc2VzXxAQTlNQYXJhZ3JhcGhTdHlsZaIUFlhOU09iamVjdF8QD05TS2V5ZWRBcmNoaXZlctEZGlRyb290gAEIERojLTI3O0FKX2p2fYaIioyRnKW4u8TW2d4AAAAAAAABAQAAAAAAAAAbAAAAAAAAAAAAAAAAAAAA4A=="
         }
       },
       "verticalAlignment": 0

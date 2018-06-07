@@ -1,36 +1,10 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "attributedString",
-    "attributes": [
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.2,
-            "green": 0.2,
-            "red": 0.2
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "OpenSans",
-              "size": 14
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "allowsDefaultTighteningForTruncation": 0,
-            "paragraphSpacing": 10
-          }
-        },
-        "length": 349,
-        "location": 0
-      }
-    ],
-    "string": "Two-sided marketplaces are the type of companies that connect external parties starting from ―vendors such as the seller, host, and driver, and at the same time customers such as buyer, renters and service user, to interact and transact inside the marketplace they had developed. This kind of marketplace often risk disintermediation which happens.…"
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGX2BYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHAcIDxAcHR4fKywtLi8wMTIzOT1FRkdISUxQWFtVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAbgANvEQFdAFQAdwBvAC0AcwBpAGQAZQBkACAAbQBhAHIAawBlAHQAcABsAGEAYwBlAHMAIABhAHIAZQAgAHQAaABlACAAdAB5AHAAZQAgAG8AZgAgAGMAbwBtAHAAYQBuAGkAZQBzACAAdABoAGEAdAAgAGMAbwBuAG4AZQBjAHQAIABlAHgAdABlAHIAbgBhAGwAIABwAGEAcgB0AGkAZQBzACAAcwB0AGEAcgB0AGkAbgBnACAAZgByAG8AbQAgIBUAdgBlAG4AZABvAHIAcwAgAHMAdQBjAGgAIABhAHMAIAB0AGgAZQAgAHMAZQBsAGwAZQByACwAIABoAG8AcwB0ACwAIABhAG4AZAAgAGQAcgBpAHYAZQByACwAIABhAG4AZAAgAGEAdAAgAHQAaABlACAAcwBhAG0AZQAgAHQAaQBtAGUAIABjAHUAcwB0AG8AbQBlAHIAcwAgAHMAdQBjAGgAIABhAHMAIABiAHUAeQBlAHIALAAgAHIAZQBuAHQAZQByAHMAIABhAG4AZAAgAHMAZQByAHYAaQBjAGUAIAB1AHMAZQByACwAIAB0AG8AIABpAG4AdABlAHIAYQBjAHQAIABhAG4AZAAgAHQAcgBhAG4AcwBhAGMAdAAgAGkAbgBzAGkAZABlACAAdABoAGUAIABtAGEAcgBrAGUAdABwAGwAYQBjAGUAIAB0AGgAZQB5ACAAaABhAGQAIABkAGUAdgBlAGwAbwBwAGUAZAAuACAAVABoAGkAcwAgAGsAaQBuAGQAIABvAGYAIABtAGEAcgBrAGUAdABwAGwAYQBjAGUAIABvAGYAdABlAG4AIAByAGkAcwBrACAAZABpAHMAaQBuAHQAZQByAG0AZQBkAGkAYQB0AGkAbwBuACAAdwBoAGkAYwBoACAAaABhAHAAcABlAG4AcwAuICbTERIKExcbV05TLmtleXNaTlMub2JqZWN0c6MUFRaABIAFgAajGBkagAeAEYAZgBBfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAQTlNQYXJhZ3JhcGhTdHlsZdMREgogJRukISIjJIAIgAmACoALpCYnKCmADIANgA6AD4AQU3JlZFVhbHBoYVRibHVlVWdyZWVuIz/JmZmZmZmaIz/wAAAAAAAAIz/JmZmZmZmaIz/JmZmZmZma0jQ1NjdaJGNsYXNzbmFtZVgkY2xhc3Nlc1xOU0RpY3Rpb25hcnmiNjhYTlNPYmplY3TSCjo7PF8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBiAEtMREgo+QUSiP0CAE4AUokJDgBWAFoAXXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUQDlhPcGVuU2Fuc9I0NUpLXxATTlNNdXRhYmxlRGljdGlvbmFyeaNKNjjSNDVNTl8QEE5TRm9udERlc2NyaXB0b3KiTzhfEBBOU0ZvbnREZXNjcmlwdG9y1FFSUwpUVVZXXxASTlNQYXJhZ3JhcGhTcGFjaW5nWk5TVGFiU3RvcHNbTlNBbGlnbm1lbnQjQCQAAAAAAACAABAEgBrSNDVZWl8QEE5TUGFyYWdyYXBoU3R5bGWiWTjSNDVcXV8QEk5TQXR0cmlidXRlZFN0cmluZ6JeOF8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctFhYlRyb290gAEACAARABoAIwAtADIANwBWAFwAYwBsAHMAgACCAIQAhgNEA0sDUwNeA2IDZANmA2gDbANuA3ADcgN0A6EDwwPWA90D4gPkA+YD6APqA+8D8QPzA/UD9wP5A/0EAwQIBA4EFwQgBCkEMgQ3BEIESwRYBFsEZARpBIYEiASKBJEElASWBJgEmwSdBJ8EoQS3BM0EzwTYBN0E8wT3BPwFDwUSBSUFLgVDBU4FWgVjBWUFZwVpBW4FgQWEBYkFngWhBbYFyAXLBdAAAAAAAAACAQAAAAAAAABjAAAAAAAAAAAAAAAAAAAF0g=="
+    }
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "0DE598A4-AEFF-433A-B83E-28705A69D32B",
@@ -85,16 +59,10 @@
           "red": 0.2
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
-          "attributes": {
-            "name": "OpenSans",
-            "size": 14
-          }
+          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRAOWE9wZW5TYW5z0hwdHh9aJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjHiAhXE5TRGljdGlvbmFyeVhOU09iamVjdNIcHSMkXxAQTlNGb250RGVzY3JpcHRvcqIlIV8QEE5TRm9udERlc2NyaXB0b3JfEA9OU0tleWVkQXJjaGl2ZXLRKClUcm9vdIABAAgAEQAaACMALQAyADcAQQBHAEwAUwBwAHIAdAB7AIMAjgCRAJMAlQCYAJoAnACeALQAygDMANUA2gDlAO4BBAEIARUBHgEjATYBOQFMAV4BYQFmAAAAAAAAAgEAAAAAAAAAKgAAAAAAAAAAAAAAAAAAAWg="
         },
         "paragraphStyle": {
-          "_class": "paragraphStyle",
-          "allowsDefaultTighteningForTruncation": 0,
-          "paragraphSpacing": 10
+          "_archive": "YnBsaXN0MDDUAQIDBAUGFxhYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKMHCBFVJG51bGzUCQoLDA0ODxBfEBJOU1BhcmFncmFwaFNwYWNpbmdaTlNUYWJTdG9wc1tOU0FsaWdubWVudFYkY2xhc3MjQCQAAAAAAACAABAEgALSEhMUFVokY2xhc3NuYW1lWCRjbGFzc2VzXxAQTlNQYXJhZ3JhcGhTdHlsZaIUFlhOU09iamVjdF8QD05TS2V5ZWRBcmNoaXZlctEZGlRyb290gAEIERojLTI3O0FKX2p2fYaIioyRnKW4u8TW2d4AAAAAAAABAQAAAAAAAAAbAAAAAAAAAAAAAAAAAAAA4A=="
         }
       },
       "verticalAlignment": 0

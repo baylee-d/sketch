@@ -1,36 +1,10 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "attributedString",
-    "attributes": [
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.2666666667,
-            "green": 0.2666666667,
-            "red": 0.2666666667
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "HelveticaNeue",
-              "size": 18
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0
-          }
-        },
-        "length": 485,
-        "location": 0
-      }
-    ],
-    "string": "When you create this preprint, it will be assigned a DOI and become publicly accessible via OSF Preprints. You will be unable to delete the preprint file, but you can update or modify it. This also creates an OSF project in case you would like to attach other content to your preprint such as supplementary materials, appendices, data, or protocols.\n\nBy creating the preprint, you confirm that all contributors agree with sharing this preprint, and that you have the right to share it."
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGW1xYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHAcIDxAcHR4fKywtLi8wMTIzOT1FRkdISUxQVFdVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAbgANfEQHlV2hlbiB5b3UgY3JlYXRlIHRoaXMgcHJlcHJpbnQsIGl0IHdpbGwgYmUgYXNzaWduZWQgYSBET0kgYW5kIGJlY29tZSBwdWJsaWNseSBhY2Nlc3NpYmxlIHZpYSBPU0YgUHJlcHJpbnRzLiBZb3Ugd2lsbCBiZSB1bmFibGUgdG8gZGVsZXRlIHRoZSBwcmVwcmludCBmaWxlLCBidXQgeW91IGNhbiB1cGRhdGUgb3IgbW9kaWZ5IGl0LiBUaGlzIGFsc28gY3JlYXRlcyBhbiBPU0YgcHJvamVjdCBpbiBjYXNlIHlvdSB3b3VsZCBsaWtlIHRvIGF0dGFjaCBvdGhlciBjb250ZW50IHRvIHlvdXIgcHJlcHJpbnQgc3VjaCBhcyBzdXBwbGVtZW50YXJ5IG1hdGVyaWFscywgYXBwZW5kaWNlcywgZGF0YSwgb3IgcHJvdG9jb2xzLgoKQnkgY3JlYXRpbmcgdGhlIHByZXByaW50LCB5b3UgY29uZmlybSB0aGF0IGFsbCBjb250cmlidXRvcnMgYWdyZWUgd2l0aCBzaGFyaW5nIHRoaXMgcHJlcHJpbnQsIGFuZCB0aGF0IHlvdSBoYXZlIHRoZSByaWdodCB0byBzaGFyZSBpdC7TERIKExcbV05TLmtleXNaTlMub2JqZWN0c6MUFRaABIAFgAajGBkagAeAEYAZgBBfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAQTlNQYXJhZ3JhcGhTdHlsZdMREgogJRukISIjJIAIgAmACoALpCYnKCmADIANgA6AD4AQU3JlZFVhbHBoYVRibHVlVWdyZWVuIz/RERERGjqxIz/wAAAAAAAAIz/RERERGjqxIz/RERERGjqx0jQ1NjdaJGNsYXNzbmFtZVgkY2xhc3Nlc1xOU0RpY3Rpb25hcnmiNjhYTlNPYmplY3TSCjo7PF8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBiAEtMREgo+QUSiP0CAE4AUokJDgBWAFoAXXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUQEl1IZWx2ZXRpY2FOZXVl0jQ1SktfEBNOU011dGFibGVEaWN0aW9uYXJ5o0o2ONI0NU1OXxAQTlNGb250RGVzY3JpcHRvcqJPOF8QEE5TRm9udERlc2NyaXB0b3LSClFSU1pOU1RhYlN0b3BzgBqAANI0NVVWXxAQTlNQYXJhZ3JhcGhTdHlsZaJVONI0NVhZXxASTlNBdHRyaWJ1dGVkU3RyaW5nolo4XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0V1eVHJvb3SAAQAIABEAGgAjAC0AMgA3AFYAXABjAGwAcwCAAIIAhACGAm8CdgJ+AokCjQKPApECkwKXApkCmwKdAp8CzALuAwEDCAMNAw8DEQMTAxUDGgMcAx4DIAMiAyQDKAMuAzMDOQNCA0sDVANdA2IDbQN2A4MDhgOPA5QDsQOzA7UDvAO/A8EDwwPGA8gDygPMA+ID+AP6BAgEDQQjBCcELAQ/BEIEVQRaBGUEZwRpBG4EgQSEBIkEngShBLYEyATLBNAAAAAAAAACAQAAAAAAAABfAAAAAAAAAAAAAAAAAAAE0g=="
+    }
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "B9D13D62-E8C9-47BB-A032-6E7978388846",
@@ -81,16 +55,10 @@
           "red": 0.2666666667
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
-          "attributes": {
-            "name": "HelveticaNeue",
-            "size": 18
-          }
+          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRASXUhlbHZldGljYU5ldWXSHB0eH1okY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaMeICFcTlNEaWN0aW9uYXJ5WE5TT2JqZWN00hwdIyRfEBBOU0ZvbnREZXNjcmlwdG9yoiUhXxAQTlNGb250RGVzY3JpcHRvcl8QD05TS2V5ZWRBcmNoaXZlctEoKVRyb290gAEACAARABoAIwAtADIANwBBAEcATABTAHAAcgB0AHsAgwCOAJEAkwCVAJgAmgCcAJ4AtADKAMwA2gDfAOoA8wEJAQ0BGgEjASgBOwE+AVEBYwFmAWsAAAAAAAACAQAAAAAAAAAqAAAAAAAAAAAAAAAAAAABbQ=="
         },
         "paragraphStyle": {
-          "_class": "paragraphStyle",
-          "alignment": 0,
-          "allowsDefaultTighteningForTruncation": 0
+          "_archive": "YnBsaXN0MDDUAQIDBAUGExRYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKMHCA1VJG51bGzSCQoLDFYkY2xhc3NaTlNUYWJTdG9wc4ACgADSDg8QEVokY2xhc3NuYW1lWCRjbGFzc2VzXxAQTlNQYXJhZ3JhcGhTdHlsZaIQElhOU09iamVjdF8QD05TS2V5ZWRBcmNoaXZlctEVFlRyb290gAEIERojLTI3O0FGTVhaXGFsdYiLlKaprgAAAAAAAAEBAAAAAAAAABcAAAAAAAAAAAAAAAAAAACw"
         }
       },
       "verticalAlignment": 0

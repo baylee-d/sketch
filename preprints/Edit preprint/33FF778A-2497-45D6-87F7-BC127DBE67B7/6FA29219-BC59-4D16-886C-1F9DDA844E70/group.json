@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "6FA29219-BC59-4D16-886C-1F9DDA844E70",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 238,
+    "width": 1440,
+    "x": 0,
+    "y": 1366
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "7C06FB42-4D38-4942-9F3E-7635ADB25BEE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FD8378D8-BF2B-4E95-955C-01C76C3CE34B"
+    },
+    {
+      "class": "group",
+      "id": "72ECD010-AC3C-4B03-AA0A-D99DACB71A9A"
+    },
+    {
+      "class": "group",
+      "id": "BC9DA900-5D53-4FB3-9591-1ABEFEC07D4F"
+    },
+    {
+      "class": "group",
+      "id": "6EE84E7A-3586-4DA7-BF9C-434EB63B6DEA"
+    }
+  ],
+  "name": "cos-bottom-bar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

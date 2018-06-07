@@ -1,37 +1,10 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "attributedString",
-    "attributes": [
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.9882352941,
-            "green": 0.9882352941,
-            "red": 0.9882352941
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "Helvetica-Light",
-              "size": 36
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 38,
-            "minimumLineHeight": 38
-          }
-        },
-        "length": 99,
-        "location": 0
-      }
-    ],
-    "string": "Black Lives Matter in Wikipedia: Collaboration and Collective Memory around Online Social Movements"
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGYGFYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHAcIDxAcHR4fKywtLi8wMTIzOT1FRkdISUxQWVxVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAbgANfEGNCbGFjayBMaXZlcyBNYXR0ZXIgaW4gV2lraXBlZGlhOiBDb2xsYWJvcmF0aW9uIGFuZCBDb2xsZWN0aXZlIE1lbW9yeSBhcm91bmQgT25saW5lIFNvY2lhbCBNb3ZlbWVudHPTERIKExcbV05TLmtleXNaTlMub2JqZWN0c6MUFRaABIAFgAajGBkagAeAEYAZgBBfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAQTlNQYXJhZ3JhcGhTdHlsZdMREgogJRukISIjJIAIgAmACoALpCYnKCmADIANgA6AD4AQU3JlZFVhbHBoYVRibHVlVWdyZWVuIz/vn5+fnTK5Iz/wAAAAAAAAIz/vn5+fnTK5Iz/vn5+fnTK50jQ1NjdaJGNsYXNzbmFtZVgkY2xhc3Nlc1xOU0RpY3Rpb25hcnmiNjhYTlNPYmplY3TSCjo7PF8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBiAEtMREgo+QUSiP0CAE4AUokJDgBWAFoAXXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUQJF8QD0hlbHZldGljYS1MaWdodNI0NUpLXxATTlNNdXRhYmxlRGljdGlvbmFyeaNKNjjSNDVNTl8QEE5TRm9udERlc2NyaXB0b3KiTzhfEBBOU0ZvbnREZXNjcmlwdG9y1VFSUwpUVVZXWFdbTlNBbGlnbm1lbnRaTlNUYWJTdG9wc18QD05TTWluTGluZUhlaWdodF8QD05TTWF4TGluZUhlaWdodBAEgAAjQEMAAAAAAACAGtI0NVpbXxAQTlNQYXJhZ3JhcGhTdHlsZaJaONI0NV1eXxASTlNBdHRyaWJ1dGVkU3RyaW5nol84XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0WJjVHJvb3SAAQAIABEAGgAjAC0AMgA3AFYAXABjAGwAcwCAAIIAhACGAOwA8wD7AQYBCgEMAQ4BEAEUARYBGAEaARwBSQFrAX4BhQGKAYwBjgGQAZIBlwGZAZsBnQGfAaEBpQGrAbABtgG/AcgB0QHaAd8B6gHzAgACAwIMAhECLgIwAjICOQI8Aj4CQAJDAkUCRwJJAl8CdQJ3AokCjgKkAqgCrQLAAsMC1gLhAu0C+AMKAxwDHgMgAykDKwMwA0MDRgNLA2ADYwN4A4oDjQOSAAAAAAAAAgEAAAAAAAAAZAAAAAAAAAAAAAAAAAAAA5Q="
+    }
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "0510BCDE-BE14-45E7-969D-1935F35B6BE3",
@@ -82,17 +55,10 @@
           "red": 0.9882352941
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
-          "attributes": {
-            "name": "Helvetica-Light",
-            "size": 36
-          }
+          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRAkXxAPSGVsdmV0aWNhLUxpZ2h00hwdHh9aJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjHiAhXE5TRGljdGlvbmFyeVhOU09iamVjdNIcHSMkXxAQTlNGb250RGVzY3JpcHRvcqIlIV8QEE5TRm9udERlc2NyaXB0b3JfEA9OU0tleWVkQXJjaGl2ZXLRKClUcm9vdIABAAgAEQAaACMALQAyADcAQQBHAEwAUwBwAHIAdAB7AIMAjgCRAJMAlQCYAJoAnACeALQAygDMAN4A4wDuAPcBDQERAR4BJwEsAT8BQgFVAWcBagFvAAAAAAAAAgEAAAAAAAAAKgAAAAAAAAAAAAAAAAAAAXE="
         },
         "paragraphStyle": {
-          "_class": "paragraphStyle",
-          "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 38,
-          "minimumLineHeight": 38
+          "_archive": "YnBsaXN0MDDUAQIDBAUGGBlYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKMHCBJVJG51bGzVCQoLDA0ODxAREFtOU0FsaWdubWVudFpOU1RhYlN0b3BzXxAPTlNNaW5MaW5lSGVpZ2h0ViRjbGFzc18QD05TTWF4TGluZUhlaWdodBAEgAAjQEMAAAAAAACAAtITFBUWWiRjbGFzc25hbWVYJGNsYXNzZXNfEBBOU1BhcmFncmFwaFN0eWxlohUXWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RobVHJvb3SAAQgRGiMtMjc7QUxYY3V8jpCSm52irbbJzNXn6u8AAAAAAAABAQAAAAAAAAAcAAAAAAAAAAAAAAAAAAAA8Q=="
         }
       },
       "verticalAlignment": 0

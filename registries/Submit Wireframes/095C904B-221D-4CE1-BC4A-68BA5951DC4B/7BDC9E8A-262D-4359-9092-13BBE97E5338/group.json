@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "7BDC9E8A-262D-4359-9092-13BBE97E5338",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "892821A0-12EB-44FE-8BCF-15FF39FC151C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "07EDBE57-26C2-4AD3-9DEA-32B0D94E7C02",
+    "height": 56,
+    "width": 131,
+    "x": 183,
+    "y": 1292
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E8ACCCEA-7276-4613-B368-06CA74D34EE1"
+    },
+    {
+      "class": "text",
+      "id": "86756A34-9054-4362-94F1-84F57634B483"
+    },
+    {
+      "class": "MSImmutableHotspotLayer",
+      "id": "2D84ED6C-AD35-405C-95E7-185BBD1DFD02"
+    }
+  ],
+  "name": "backBtn",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "44EED375-0307-4C9D-9359-F7524F05A8E3",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,154 +1,10 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "attributedString",
-    "attributes": [
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.3333333333,
-            "green": 0.3333333333,
-            "red": 0.3333333333
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "HelveticaNeue",
-              "size": 14
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle"
-          }
-        },
-        "length": 22,
-        "location": 0
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.7176470588,
-            "green": 0.4784313725,
-            "red": 0.2
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "HelveticaNeue",
-              "size": 14
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle"
-          }
-        },
-        "length": 23,
-        "location": 22
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.3333333333,
-            "green": 0.3333333333,
-            "red": 0.3333333333
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "HelveticaNeue",
-              "size": 14
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle"
-          }
-        },
-        "length": 3,
-        "location": 45
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.7176470588,
-            "green": 0.4784313725,
-            "red": 0.2
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "HelveticaNeue",
-              "size": 14
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle"
-          }
-        },
-        "length": 12,
-        "location": 48
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.3333333333,
-            "green": 0.3333333333,
-            "red": 0.3333333333
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "HelveticaNeue",
-              "size": 14
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle"
-          }
-        },
-        "length": 3,
-        "location": 60
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.7176470588,
-            "green": 0.4784313725,
-            "red": 0.2
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "HelveticaNeue",
-              "size": 14
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle"
-          }
-        },
-        "length": 14,
-        "location": 63
-      }
-    ],
-    "string": "Copyright © 2011-2017 Center for Open Science | Terms of Use | Privacy Policy"
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGmZpYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QKAcIERIYIyQlJjIzNDU2Nzg5OkBETE1OT1BTV19ibHh5ent+homNkZVVJG51bGzUCQoLDA0ODxBYTlNTdHJpbmdfEA9OU0F0dHJpYnV0ZUluZm9cTlNBdHRyaWJ1dGVzViRjbGFzc4ACgCWAA4AnbxBNAEMAbwBwAHkAcgBpAGcAaAB0ACAAqQAgADIAMAAxADEALQAyADAAMQA3ACAAQwBlAG4AdABlAHIAIABmAG8AcgAgAE8AcABlAG4AIABTAGMAaQBlAG4AYwBlACAAfAAgAFQAZQByAG0AcwAgAG8AZgAgAFUAcwBlACAAfAAgAFAAcgBpAHYAYQBjAHkAIABQAG8AbABpAGMAedITDBQXWk5TLm9iamVjdHOiFRaABIAcgCTTGRMMGh4iV05TLmtleXOjGxwdgAWABoAHox8gIYAIgBKAGoARXxAqTVNBdHRyaWJ1dGVkU3RyaW5nQ29sb3JEaWN0aW9uYXJ5QXR0cmlidXRlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QEE5TUGFyYWdyYXBoU3R5bGXTGRMMJywipCgpKiuACYAKgAuADKQtLi8wgA2ADoAPgBCAEVNyZWRVYWxwaGFUYmx1ZVVncmVlbiM/1VVVVUwrtSM/8AAAAAAAACM/1VVVVUwrtSM/1VVVVUwrtdI7PD0+WiRjbGFzc25hbWVYJGNsYXNzZXNcTlNEaWN0aW9uYXJ5oj0/WE5TT2JqZWN00gxBQkNfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AZgBPTGRMMRUhLokZHgBSAFaJJSoAWgBeAGF8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlEA5dSGVsdmV0aWNhTmV1ZdI7PFFSXxATTlNNdXRhYmxlRGljdGlvbmFyeaNRPT/SOzxUVV8QEE5TRm9udERlc2NyaXB0b3KiVj9fEBBOU0ZvbnREZXNjcmlwdG9y1FhZWgxbXF1eWk5TVGFiU3RvcHNbTlNBbGlnbm1lbnRfEB9OU0FsbG93c1RpZ2h0ZW5pbmdGb3JUcnVuY2F0aW9ugAAQBBABgBvSOzxgYV8QEE5TUGFyYWdyYXBoU3R5bGWiYD/TGRMMY2cioxscHYAFgAaAB6NoaWqAHYAhgCOAEdMZEwxtciKkKCkqK4AJgAqAC4AMpHMudXaAHoAOgB+AIIARIz/JmZmZmZmaIz/m9vb287sZIz/enp6ekSUs0gxBQn2AGYAi0xkTDH+CS6JGR4AUgBWiSUqAFoAXgBjUWFlaDFtcXV6AAIAb0js8ioteTlNNdXRhYmxlQXJyYXmjiow/V05TQXJyYXnSjgyPkFdOUy5kYXRhTBYAFwEDAAwBAwAOAYAm0js8kpNdTlNNdXRhYmxlRGF0YaOSlD9WTlNEYXRh0js8lpdfEBJOU0F0dHJpYnV0ZWRTdHJpbmeimD9fEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRm5xUcm9vdIABAAgAEQAaACMALQAyADcAYgBoAHEAegCMAJkAoACiAKQApgCoAUUBSgFVAVgBWgFcAV4BZQFtAXEBcwF1AXcBewF9AX8BgQGDAbAB0gHlAewB8QHzAfUB9wH5Af4CAAICAgQCBgIIAgwCEgIXAh0CJgIvAjgCQQJGAlECWgJnAmoCcwJ4ApUClwKZAqACowKlAqcCqgKsAq4CsALGAtwC3gLsAvEDBwMLAxADIwMmAzkDQgNNA1kDewN9A38DgQODA4gDmwOeA6UDqQOrA60DrwOzA7UDtwO5A7sDwgPHA8kDywPNA88D1APWA9gD2gPcA94D5wPwA/kD/gQABAIECQQMBA4EEAQTBBUEFwQZBCIEJAQmBCsEOgQ+BEYESwRTBGAEYgRnBHUEeQSABIUEmgSdBLIExATHBMwAAAAAAAACAQAAAAAAAACdAAAAAAAAAAAAAAAAAAAEzg=="
+    }
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "96EF5B20-A2A8-4E33-A46E-53190981DDA3",
@@ -199,14 +55,10 @@
           "red": 0.3333333333
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
-          "attributes": {
-            "name": "HelveticaNeue",
-            "size": 14
-          }
+          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRAOXUhlbHZldGljYU5ldWXSHB0eH1okY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaMeICFcTlNEaWN0aW9uYXJ5WE5TT2JqZWN00hwdIyRfEBBOU0ZvbnREZXNjcmlwdG9yoiUhXxAQTlNGb250RGVzY3JpcHRvcl8QD05TS2V5ZWRBcmNoaXZlctEoKVRyb290gAEACAARABoAIwAtADIANwBBAEcATABTAHAAcgB0AHsAgwCOAJEAkwCVAJgAmgCcAJ4AtADKAMwA2gDfAOoA8wEJAQ0BGgEjASgBOwE+AVEBYwFmAWsAAAAAAAACAQAAAAAAAAAqAAAAAAAAAAAAAAAAAAABbQ=="
         },
         "paragraphStyle": {
-          "_class": "paragraphStyle"
+          "_archive": "YnBsaXN0MDDUAQIDBAUGFxhYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKMHCBFVJG51bGzUCQoLDA0ODxBaTlNUYWJTdG9wc1tOU0FsaWdubWVudF8QH05TQWxsb3dzVGlnaHRlbmluZ0ZvclRydW5jYXRpb25WJGNsYXNzgAAQBBABgALSEhMUFVokY2xhc3NuYW1lWCRjbGFzc2VzXxAQTlNQYXJhZ3JhcGhTdHlsZaIUFlhOU09iamVjdF8QD05TS2V5ZWRBcmNoaXZlctEZGlRyb290gAEIERojLTI3O0FKVWGDioyOkJKXoqu+wcrc3+QAAAAAAAABAQAAAAAAAAAbAAAAAAAAAAAAAAAAAAAA5g=="
         }
       },
       "verticalAlignment": 0

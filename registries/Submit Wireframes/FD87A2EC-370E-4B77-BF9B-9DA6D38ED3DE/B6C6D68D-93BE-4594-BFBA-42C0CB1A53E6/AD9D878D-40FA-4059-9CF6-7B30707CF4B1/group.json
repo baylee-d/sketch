@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "AD9D878D-40FA-4059-9CF6-7B30707CF4B1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "45C24052-67FA-4B60-A5BA-11A02FEC8AF7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "438073BF-37D0-4852-B572-93126BB07565",
+    "height": 170,
+    "width": 977,
+    "x": 146,
+    "y": 1776
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "text",
+      "id": "3C622FEA-A42D-446A-9837-B2F45E86F039"
+    },
+    {
+      "class": "text",
+      "id": "6E035D8A-6527-486F-A074-5FC909BCB3A5"
+    }
+  ],
+  "name": "question4",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "48B2214F-F996-4767-806C-24213826F120",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

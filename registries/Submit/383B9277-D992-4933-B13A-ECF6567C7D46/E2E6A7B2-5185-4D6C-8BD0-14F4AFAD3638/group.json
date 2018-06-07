@@ -1,0 +1,105 @@
+{
+  "_class": "group",
+  "do_objectID": "E2E6A7B2-5185-4D6C-8BD0-14F4AFAD3638",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1059,
+    "width": 898,
+    "x": 276,
+    "y": 3825
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E568783B-561F-46DB-963B-1C2806C08E6A"
+    },
+    {
+      "class": "text",
+      "id": "E20D5D48-635F-465E-966F-21E6B2F2F800"
+    },
+    {
+      "class": "text",
+      "id": "0385ABB5-DF78-4520-AF05-FC9152E352F7"
+    },
+    {
+      "class": "text",
+      "id": "DC13E51E-20CE-47FA-9F83-E7625204F465"
+    },
+    {
+      "class": "text",
+      "id": "AA758884-9D0A-40A3-8936-1E9B7AC2D524"
+    },
+    {
+      "class": "text",
+      "id": "2BF70178-7DF1-49B0-902A-2CE821615DD4"
+    },
+    {
+      "class": "text",
+      "id": "6CCC28ED-EEF8-4E20-9518-A4F5AAB3FD3E"
+    },
+    {
+      "class": "text",
+      "id": "0EC1A923-1CF1-4872-A35E-9C0C26522A5A"
+    },
+    {
+      "class": "text",
+      "id": "C79617F2-3BEA-4717-8ADC-8B6970A5CDF1"
+    },
+    {
+      "class": "text",
+      "id": "6A50CC96-622D-4638-ABEB-41D6D68E0CA0"
+    },
+    {
+      "class": "text",
+      "id": "A4851336-9E77-42D0-9646-A7AFD48EDA5D"
+    },
+    {
+      "class": "text",
+      "id": "ED234D29-8B05-4BE7-B308-C035AD60373C"
+    },
+    {
+      "class": "text",
+      "id": "BA096111-3D55-4B90-9118-0EE79E53945A"
+    },
+    {
+      "class": "text",
+      "id": "507C7C52-E5D5-4FAA-9232-4B14846B0781"
+    },
+    {
+      "class": "text",
+      "id": "2999633F-99F3-45FE-A3B7-7B12E345B046"
+    },
+    {
+      "class": "text",
+      "id": "A70DF0A6-637C-4CA1-9F7A-51D522F087BE"
+    }
+  ],
+  "name": "analysisPlan",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

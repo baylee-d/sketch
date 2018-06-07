@@ -1,0 +1,102 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "18633817-6A9F-4A51-AE56-5795617F9E5D",
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "06287957-8A9C-4D57-AA6F-ED1C2DF27EA5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8B101F63-AA73-4649-A2A9-F01AF062723A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DD5BDA5C-91FE-4D26-AA1D-65C4641D1BA7",
+    "height": 2618,
+    "width": 1440,
+    "x": -1376,
+    "y": -1011
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "B0461B12-C82C-4C7C-8C41-EA679335CF18",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "777C8D40-A788-4872-A307-E5244C028515"
+    },
+    {
+      "class": "group",
+      "id": "3DCAC3F8-ABC0-4CB2-BC3E-789935569638"
+    },
+    {
+      "class": "group",
+      "id": "A14482D1-95D1-481A-8D76-0F1B9EA9E762"
+    },
+    {
+      "class": "group",
+      "id": "624213B4-E395-4E4E-9CC2-B9783018162B"
+    },
+    {
+      "class": "group",
+      "id": "77A76D5A-C528-40FA-A656-B98C070D2951"
+    },
+    {
+      "class": "bitmap",
+      "id": "070CACE4-371E-41F2-BF52-5BBA563D134D"
+    }
+  ],
+  "name": "metadata",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E47F4C68-7E07-468A-B6F9-8AF2243416A2",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "504FF965-414A-4522-9373-AAD6C2193E9C",
+    "guides": [
+    ]
+  }
+}

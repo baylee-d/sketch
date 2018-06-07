@@ -1,160 +1,10 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "attributedString",
-    "attributes": [
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.3333333333,
-            "green": 0.3333333333,
-            "red": 0.3333333333
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "OpenSans",
-              "size": 14
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 2
-          }
-        },
-        "length": 22,
-        "location": 0
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.7176470588,
-            "green": 0.4784313725,
-            "red": 0.2
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "OpenSans",
-              "size": 14
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 2
-          }
-        },
-        "length": 23,
-        "location": 22
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.3333333333,
-            "green": 0.3333333333,
-            "red": 0.3333333333
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "OpenSans",
-              "size": 14
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 2
-          }
-        },
-        "length": 3,
-        "location": 45
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.7176470588,
-            "green": 0.4784313725,
-            "red": 0.2
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "OpenSans",
-              "size": 14
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 2
-          }
-        },
-        "length": 12,
-        "location": 48
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.3333333333,
-            "green": 0.3333333333,
-            "red": 0.3333333333
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "OpenSans",
-              "size": 14
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 2
-          }
-        },
-        "length": 3,
-        "location": 60
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.7176470588,
-            "green": 0.4784313725,
-            "red": 0.2
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "OpenSans",
-              "size": 14
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 2
-          }
-        },
-        "length": 125,
-        "location": 63
-      }
-    ],
-    "string": "Copyright © 2011-2018 Center for Open Science | Terms of Use | Privacy Policy | Status | API\nTop Guidelines | Reproducibility Project: Psychology | Reproducibility Project: Cancer Biology "
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "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"
+    }
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "0AD584C1-8EC3-401A-A6B7-3DDD12A2014C",
@@ -205,15 +55,10 @@
           "red": 0.3333333333
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
-          "attributes": {
-            "name": "OpenSans",
-            "size": 14
-          }
+          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRAOWE9wZW5TYW5z0hwdHh9aJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjHiAhXE5TRGljdGlvbmFyeVhOU09iamVjdNIcHSMkXxAQTlNGb250RGVzY3JpcHRvcqIlIV8QEE5TRm9udERlc2NyaXB0b3JfEA9OU0tleWVkQXJjaGl2ZXLRKClUcm9vdIABAAgAEQAaACMALQAyADcAQQBHAEwAUwBwAHIAdAB7AIMAjgCRAJMAlQCYAJoAnACeALQAygDMANUA2gDlAO4BBAEIARUBHgEjATYBOQFMAV4BYQFmAAAAAAAAAgEAAAAAAAAAKgAAAAAAAAAAAAAAAAAAAWg="
         },
         "paragraphStyle": {
-          "_class": "paragraphStyle",
-          "alignment": 2
+          "_archive": "YnBsaXN0MDDUAQIDBAUGFxhYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKMHCBFVJG51bGzUCQoLDA0ODxBaTlNUYWJTdG9wc1tOU0FsaWdubWVudF8QH05TQWxsb3dzVGlnaHRlbmluZ0ZvclRydW5jYXRpb25WJGNsYXNzgAAQAhABgALSEhMUFVokY2xhc3NuYW1lWCRjbGFzc2VzXxAQTlNQYXJhZ3JhcGhTdHlsZaIUFlhOU09iamVjdF8QD05TS2V5ZWRBcmNoaXZlctEZGlRyb290gAEIERojLTI3O0FKVWGDioyOkJKXoqu+wcrc3+QAAAAAAAABAQAAAAAAAAAbAAAAAAAAAAAAAAAAAAAA5g=="
         }
       },
       "verticalAlignment": 0

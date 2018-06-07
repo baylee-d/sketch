@@ -1,160 +1,10 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "attributedString",
-    "attributes": [
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.2,
-            "green": 0.2,
-            "red": 0.2
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "HelveticaNeue",
-              "size": 14
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "allowsDefaultTighteningForTruncation": 0
-          }
-        },
-        "length": 22,
-        "location": 0
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.3921568627,
-            "green": 0.3215686275,
-            "red": 0.1294117647
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "HelveticaNeue",
-              "size": 14
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "allowsDefaultTighteningForTruncation": 0
-          }
-        },
-        "length": 23,
-        "location": 22
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.2,
-            "green": 0.2,
-            "red": 0.2
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "HelveticaNeue",
-              "size": 14
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "allowsDefaultTighteningForTruncation": 0
-          }
-        },
-        "length": 3,
-        "location": 45
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.3921568627,
-            "green": 0.3215686275,
-            "red": 0.1294117647
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "HelveticaNeue",
-              "size": 14
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "allowsDefaultTighteningForTruncation": 0
-          }
-        },
-        "length": 12,
-        "location": 48
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.2,
-            "green": 0.2,
-            "red": 0.2
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "HelveticaNeue",
-              "size": 14
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "allowsDefaultTighteningForTruncation": 0
-          }
-        },
-        "length": 3,
-        "location": 60
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.3921568627,
-            "green": 0.3215686275,
-            "red": 0.1294117647
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "HelveticaNeue",
-              "size": 14
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "allowsDefaultTighteningForTruncation": 0
-          }
-        },
-        "length": 14,
-        "location": 63
-      }
-    ],
-    "string": "Copyright © 2011-2017 Center for Open Science | Terms of Use | Privacy Policy"
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGl5hYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QKAcIERIYIyQlJjIzNDU2Nzg5OkBETE1OT1BTV11ganZ3eHl8hIeLj5NVJG51bGzUCQoLDA0ODxBYTlNTdHJpbmdfEA9OU0F0dHJpYnV0ZUluZm9cTlNBdHRyaWJ1dGVzViRjbGFzc4ACgCWAA4AnbxBNAEMAbwBwAHkAcgBpAGcAaAB0ACAAqQAgADIAMAAxADEALQAyADAAMQA3ACAAQwBlAG4AdABlAHIAIABmAG8AcgAgAE8AcABlAG4AIABTAGMAaQBlAG4AYwBlACAAfAAgAFQAZQByAG0AcwAgAG8AZgAgAFUAcwBlACAAfAAgAFAAcgBpAHYAYQBjAHkAIABQAG8AbABpAGMAedITDBQXWk5TLm9iamVjdHOiFRaABIAcgCTTGRMMGh4iV05TLmtleXOjGxwdgAWABoAHox8gIYAIgBKAGoARXxAqTVNBdHRyaWJ1dGVkU3RyaW5nQ29sb3JEaWN0aW9uYXJ5QXR0cmlidXRlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QEE5TUGFyYWdyYXBoU3R5bGXTGRMMJywipCgpKiuACYAKgAuADKQtLi8wgA2ADoAPgBCAEVNyZWRVYWxwaGFUYmx1ZVVncmVlbiM/yZmZmZmZmiM/8AAAAAAAACM/yZmZmZmZmiM/yZmZmZmZmtI7PD0+WiRjbGFzc25hbWVYJGNsYXNzZXNcTlNEaWN0aW9uYXJ5oj0/WE5TT2JqZWN00gxBQkNfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AZgBPTGRMMRUhLokZHgBSAFaJJSoAWgBeAGF8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlEA5dSGVsdmV0aWNhTmV1ZdI7PFFSXxATTlNNdXRhYmxlRGljdGlvbmFyeaNRPT/SOzxUVV8QEE5TRm9udERlc2NyaXB0b3KiVj9fEBBOU0ZvbnREZXNjcmlwdG9y01gMWVpbXFpOU1RhYlN0b3BzW05TQWxpZ25tZW50gACAGxAE0js8Xl9fEBBOU1BhcmFncmFwaFN0eWxlol4/0xkTDGFlIqMbHB2ABYAGgAejZmdogB2AIYAjgBHTGRMMa3AipCgpKiuACYAKgAuADKRxLnN0gB6ADoAfgCCAESM/wJCQkI1UsiM/2RkZGQyzmyM/1JSUlKIOB9IMQUJ7gBmAItMZEwx9gEuiRkeAFIAVoklKgBaAF4AY01gMWVpbXIAAgBvSOzyIiV5OU011dGFibGVBcnJheaOIij9XTlNBcnJhedKMDI2OV05TLmRhdGFMFgAXAQMADAEDAA4BgCbSOzyQkV1OU011dGFibGVEYXRho5CSP1ZOU0RhdGHSOzyUlV8QEk5TQXR0cmlidXRlZFN0cmluZ6KWP18QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctGZmlRyb290gAEACAARABoAIwAtADIANwBiAGgAcQB6AIwAmQCgAKIApACmAKgBRQFKAVUBWAFaAVwBXgFlAW0BcQFzAXUBdwF7AX0BfwGBAYMBsAHSAeUB7AHxAfMB9QH3AfkB/gIAAgICBAIGAggCDAISAhcCHQImAi8COAJBAkYCUQJaAmcCagJzAngClQKXApkCoAKjAqUCpwKqAqwCrgKwAsYC3ALeAuwC8QMHAwsDEAMjAyYDOQNAA0sDVwNZA1sDXQNiA3UDeAN/A4MDhQOHA4kDjQOPA5EDkwOVA5wDoQOjA6UDpwOpA64DsAOyA7QDtgO4A8EDygPTA9gD2gPcA+MD5gPoA+oD7QPvA/ED8wP6A/wD/gQDBBIEFgQeBCMEKwQ4BDoEPwRNBFEEWARdBHIEdQSKBJwEnwSkAAAAAAAAAgEAAAAAAAAAmwAAAAAAAAAAAAAAAAAABKY="
+    }
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "27952436-6B50-40A3-9BBF-E78C509030C1",
@@ -205,15 +55,10 @@
           "red": 0.2
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
-          "attributes": {
-            "name": "HelveticaNeue",
-            "size": 14
-          }
+          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRAOXUhlbHZldGljYU5ldWXSHB0eH1okY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaMeICFcTlNEaWN0aW9uYXJ5WE5TT2JqZWN00hwdIyRfEBBOU0ZvbnREZXNjcmlwdG9yoiUhXxAQTlNGb250RGVzY3JpcHRvcl8QD05TS2V5ZWRBcmNoaXZlctEoKVRyb290gAEACAARABoAIwAtADIANwBBAEcATABTAHAAcgB0AHsAgwCOAJEAkwCVAJgAmgCcAJ4AtADKAMwA2gDfAOoA8wEJAQ0BGgEjASgBOwE+AVEBYwFmAWsAAAAAAAACAQAAAAAAAAAqAAAAAAAAAAAAAAAAAAABbQ=="
         },
         "paragraphStyle": {
-          "_class": "paragraphStyle",
-          "allowsDefaultTighteningForTruncation": 0
+          "_archive": "YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKMHCA9VJG51bGzTCQoLDA0OWk5TVGFiU3RvcHNWJGNsYXNzW05TQWxpZ25tZW50gACAAhAE0hAREhNaJGNsYXNzbmFtZVgkY2xhc3Nlc18QEE5TUGFyYWdyYXBoU3R5bGWiEhRYTlNPYmplY3RfEA9OU0tleWVkQXJjaGl2ZXLRFxhUcm9vdIABCBEaIy0yNztBSFNaZmhqbHF8hZibpLa5vgAAAAAAAAEBAAAAAAAAABkAAAAAAAAAAAAAAAAAAADA"
         }
       },
       "verticalAlignment": 0

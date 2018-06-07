@@ -1,31 +1,10 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "attributedString",
-    "attributes": [
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.2,
-            "green": 0.2,
-            "red": 0.2
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "OpenSans-Bold",
-              "size": 14
-            }
-          }
-        },
-        "length": 27,
-        "location": 0
-      }
-    ],
-    "string": "Strategic Management Policy"
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGUVJYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGQcIDxAaGxwoKSorLC0uLzA2OkJDREVGSU1VJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAYgANfEBtTdHJhdGVnaWMgTWFuYWdlbWVudCBQb2xpY3nTERIKExYZV05TLmtleXNaTlMub2JqZWN0c6IUFYAEgAWiFxiABoAQgA9fECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRl0xESCh0iGaQeHyAhgAeACIAJgAqkIyQlJoALgAyADYAOgA9TcmVkVWFscGhhVGJsdWVVZ3JlZW4jP8mZmZmZmZojP/AAAAAAAAAjP8mZmZmZmZojP8mZmZmZmZrSMTIzNFokY2xhc3NuYW1lWCRjbGFzc2VzXE5TRGljdGlvbmFyeaIzNVhOU09iamVjdNIKNzg5XxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAF4AR0xESCjs+QaI8PYASgBOiP0CAFIAVgBZfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRAOXU9wZW5TYW5zLUJvbGTSMTJHSF8QE05TTXV0YWJsZURpY3Rpb25hcnmjRzM10jEySktfEBBOU0ZvbnREZXNjcmlwdG9yokw1XxAQTlNGb250RGVzY3JpcHRvctIxMk5PXxASTlNBdHRyaWJ1dGVkU3RyaW5nolA1XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0VNUVHJvb3SAAQAIABEAGgAjAC0AMgA3AFMAWQBgAGkAcAB9AH8AgQCDAKEAqACwALsAvgDAAMIAxQDHAMkAywD4ARoBIQEmASgBKgEsAS4BMwE1ATcBOQE7AT0BQQFHAUwBUgFbAWQBbQF2AXsBhgGPAZwBnwGoAa0BygHMAc4B1QHYAdoB3AHfAeEB4wHlAfsCEQITAiECJgI8AkACRQJYAlsCbgJzAogCiwKgArICtQK6AAAAAAAAAgEAAAAAAAAAVQAAAAAAAAAAAAAAAAAAArw="
+    }
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "D72EDA1A-1149-433B-B40E-C9AFE335C2CB",
@@ -80,11 +59,7 @@
           "red": 0.2
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
-          "attributes": {
-            "name": "OpenSans-Bold",
-            "size": 14
-          }
+          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRAOXU9wZW5TYW5zLUJvbGTSHB0eH1okY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaMeICFcTlNEaWN0aW9uYXJ5WE5TT2JqZWN00hwdIyRfEBBOU0ZvbnREZXNjcmlwdG9yoiUhXxAQTlNGb250RGVzY3JpcHRvcl8QD05TS2V5ZWRBcmNoaXZlctEoKVRyb290gAEACAARABoAIwAtADIANwBBAEcATABTAHAAcgB0AHsAgwCOAJEAkwCVAJgAmgCcAJ4AtADKAMwA2gDfAOoA8wEJAQ0BGgEjASgBOwE+AVEBYwFmAWsAAAAAAAACAQAAAAAAAAAqAAAAAAAAAAAAAAAAAAABbQ=="
         }
       },
       "verticalAlignment": 0

@@ -1,34 +1,10 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "attributedString",
-    "attributes": [
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.4666666666666667,
-            "green": 0.4666666666666667,
-            "red": 0.4666666666666667
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "OpenSans-Light",
-              "size": 14
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle"
-          }
-        },
-        "length": 302,
-        "location": 0
-      }
-    ],
-    "string": "In order to increase the replicability of scientific work, the scientific community has called for practices designed to increase the transparency of research (McNutt, 2014; Nosek et al., 2015). The validity of a scientific claim depends not on the reputation of those making the claim, the venue in..."
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGX2BYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHAcIDxAcHR4fKywtLi8wMTIzOT1FRkdISUxQWFtVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAbgANfEQEuSW4gb3JkZXIgdG8gaW5jcmVhc2UgdGhlIHJlcGxpY2FiaWxpdHkgb2Ygc2NpZW50aWZpYyB3b3JrLCB0aGUgc2NpZW50aWZpYyBjb21tdW5pdHkgaGFzIGNhbGxlZCBmb3IgcHJhY3RpY2VzIGRlc2lnbmVkIHRvIGluY3JlYXNlIHRoZSB0cmFuc3BhcmVuY3kgb2YgcmVzZWFyY2ggKE1jTnV0dCwgMjAxNDsgTm9zZWsgZXQgYWwuLCAyMDE1KS4gVGhlIHZhbGlkaXR5IG9mIGEgc2NpZW50aWZpYyBjbGFpbSBkZXBlbmRzIG5vdCBvbiB0aGUgcmVwdXRhdGlvbiBvZiB0aG9zZSBtYWtpbmcgdGhlIGNsYWltLCB0aGUgdmVudWUgaW4uLi7TERIKExcbV05TLmtleXNaTlMub2JqZWN0c6MUFRaABIAFgAajGBkagAeAEYAZgBBfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAQTlNQYXJhZ3JhcGhTdHlsZdMREgogJRukISIjJIAIgAmACoALpCYnKCmADIANgA6AD4AQU3JlZFVhbHBoYVRibHVlVWdyZWVuIz/d3d3d3d3eIz/wAAAAAAAAIz/d3d3d3d3eIz/d3d3d3d3e0jQ1NjdaJGNsYXNzbmFtZVgkY2xhc3Nlc1xOU0RpY3Rpb25hcnmiNjhYTlNPYmplY3TSCjo7PF8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBiAEtMREgo+QUSiP0CAE4AUokJDgBWAFoAXXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUQDl5PcGVuU2Fucy1MaWdodNI0NUpLXxATTlNNdXRhYmxlRGljdGlvbmFyeaNKNjjSNDVNTl8QEE5TRm9udERlc2NyaXB0b3KiTzhfEBBOU0ZvbnREZXNjcmlwdG9y1FFSUwpUVVZXWk5TVGFiU3RvcHNbTlNBbGlnbm1lbnRfEB9OU0FsbG93c1RpZ2h0ZW5pbmdGb3JUcnVuY2F0aW9ugAAQBBABgBrSNDVZWl8QEE5TUGFyYWdyYXBoU3R5bGWiWTjSNDVcXV8QEk5TQXR0cmlidXRlZFN0cmluZ6JeOF8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctFhYlRyb290gAEACAARABoAIwAtADIANwBWAFwAYwBsAHMAgACCAIQAhgG4Ab8BxwHSAdYB2AHaAdwB4AHiAeQB5gHoAhUCNwJKAlECVgJYAloCXAJeAmMCZQJnAmkCawJtAnECdwJ8AoICiwKUAp0CpgKrArYCvwLMAs8C2ALdAvoC/AL+AwUDCAMKAwwDDwMRAxMDFQMrA0EDQwNSA1cDbQNxA3YDiQOMA58DqAOzA78D4QPjA+UD5wPpA+4EAQQEBAkEHgQhBDYESARLBFAAAAAAAAACAQAAAAAAAABjAAAAAAAAAAAAAAAAAAAEUg=="
+    }
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "46CEC315-5BCD-4E9C-8AE4-65E73964210F",
@@ -79,14 +55,10 @@
           "red": 0.4666666666666667
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
-          "attributes": {
-            "name": "OpenSans-Light",
-            "size": 14
-          }
+          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRAOXk9wZW5TYW5zLUxpZ2h00hwdHh9aJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjHiAhXE5TRGljdGlvbmFyeVhOU09iamVjdNIcHSMkXxAQTlNGb250RGVzY3JpcHRvcqIlIV8QEE5TRm9udERlc2NyaXB0b3JfEA9OU0tleWVkQXJjaGl2ZXLRKClUcm9vdIABAAgAEQAaACMALQAyADcAQQBHAEwAUwBwAHIAdAB7AIMAjgCRAJMAlQCYAJoAnACeALQAygDMANsA4ADrAPQBCgEOARsBJAEpATwBPwFSAWQBZwFsAAAAAAAAAgEAAAAAAAAAKgAAAAAAAAAAAAAAAAAAAW4="
         },
         "paragraphStyle": {
-          "_class": "paragraphStyle"
+          "_archive": "YnBsaXN0MDDUAQIDBAUGFxhYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKMHCBFVJG51bGzUCQoLDA0ODxBaTlNUYWJTdG9wc1tOU0FsaWdubWVudF8QH05TQWxsb3dzVGlnaHRlbmluZ0ZvclRydW5jYXRpb25WJGNsYXNzgAAQBBABgALSEhMUFVokY2xhc3NuYW1lWCRjbGFzc2VzXxAQTlNQYXJhZ3JhcGhTdHlsZaIUFlhOU09iamVjdF8QD05TS2V5ZWRBcmNoaXZlctEZGlRyb290gAEIERojLTI3O0FKVWGDioyOkJKXoqu+wcrc3+QAAAAAAAABAQAAAAAAAAAbAAAAAAAAAAAAAAAAAAAA5g=="
         }
       },
       "verticalAlignment": 0

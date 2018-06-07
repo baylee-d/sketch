@@ -14,8 +14,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 76,
-    "width": 161,
-    "x": 1006,
+    "width": 361,
+    "x": 806,
     "y": 1169
   },
   "hasClickThrough": false,
@@ -32,6 +32,10 @@
     {
       "class": "group",
       "id": "FD7AAE75-3306-40D8-93C1-A40035393076"
+    },
+    {
+      "class": "group",
+      "id": "AEDC7399-71EE-4A19-9416-4C2EA306F54E"
     }
   ],
   "name": "update-block",

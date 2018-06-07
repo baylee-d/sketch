@@ -14,8 +14,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 41,
-    "width": 318,
-    "x": 575,
+    "width": 518,
+    "x": 375,
     "y": 110
   },
   "hasClickThrough": false,
@@ -23,7 +23,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
@@ -32,6 +32,10 @@
     {
       "class": "group",
       "id": "BDC6CE57-66E4-476A-9F5E-4E2556B46813"
+    },
+    {
+      "class": "group",
+      "id": "7F95F505-A92F-44E3-891F-B5A099924362"
     }
   ],
   "name": "buttons",

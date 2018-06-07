@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "C49A377C-4B09-4A6F-A626-D2053F437AEE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 255,
+    "width": 898,
+    "x": 0,
+    "y": 600
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "4F9092D5-0112-4B3E-895C-7B13E28F8ACB"
+    },
+    {
+      "class": "text",
+      "id": "48DB88E1-5F52-47EC-BC76-9B253F264646"
+    },
+    {
+      "class": "text",
+      "id": "9C1D4FA3-B3EC-4EE9-978B-BE1225A59040"
+    },
+    {
+      "class": "text",
+      "id": "5BF86BCB-B19B-4D24-9108-4B49DF79F960"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F6CCAB16-9CB1-482B-9ED8-8BEB58E5EFA1"
+    }
+  ],
+  "name": "researchQuestions",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

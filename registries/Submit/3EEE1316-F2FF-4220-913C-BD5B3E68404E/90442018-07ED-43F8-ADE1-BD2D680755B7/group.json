@@ -1,0 +1,92 @@
+{
+  "_class": "group",
+  "do_objectID": "90442018-07ED-43F8-ADE1-BD2D680755B7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E9460F03-104F-4C27-8B32-521E1E075820",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5B863D9A-13F1-444C-B99E-5CC90217EDDF",
+    "height": 662,
+    "width": 833,
+    "x": 314,
+    "y": 557
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E568CE53-DFD4-476C-AF27-633A2D09D619"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0910B0DD-63ED-48D6-872A-14FFAD5A06B9"
+    },
+    {
+      "class": "text",
+      "id": "03D8FC41-56B9-4AEC-85B5-576E7F45C58E"
+    },
+    {
+      "class": "text",
+      "id": "538C8819-C76E-49FF-B935-600B7EE20556"
+    },
+    {
+      "class": "text",
+      "id": "E46C0580-3B3F-40E0-91B2-411C7E4E2FE5"
+    },
+    {
+      "class": "text",
+      "id": "8349AE5A-33F7-4299-9085-AAD6EFEA09B4"
+    },
+    {
+      "class": "text",
+      "id": "AC5556B8-28D3-435E-A237-EB2C2084A5F9"
+    },
+    {
+      "class": "text",
+      "id": "154BE19F-0A18-4473-8BCC-8BF98F42898D"
+    },
+    {
+      "class": "text",
+      "id": "BA301772-7EDB-46BB-94C0-9C3B533CA10A"
+    },
+    {
+      "class": "group",
+      "id": "CEDC1421-D88B-4CFA-A5E1-6A86B8FC4F46"
+    },
+    {
+      "class": "group",
+      "id": "EBD4E9B7-D3A3-459A-AA35-F78F80B66807"
+    },
+    {
+      "class": "text",
+      "id": "1EC653D7-725D-416B-9313-3D9F5F6FCEB2"
+    }
+  ],
+  "name": "registrationDetail",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9AF37279-6071-4532-B7AD-B07559B253CD",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

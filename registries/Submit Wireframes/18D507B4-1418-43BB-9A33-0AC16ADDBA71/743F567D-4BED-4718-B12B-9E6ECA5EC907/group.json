@@ -1,0 +1,72 @@
+{
+  "_class": "group",
+  "do_objectID": "743F567D-4BED-4718-B12B-9E6ECA5EC907",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FFF421D7-E449-4A40-8DDB-80D8134EE885",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0A5C1B4B-A05E-448B-BE78-9477D3A2495C",
+    "height": 63,
+    "width": 195,
+    "x": 1179,
+    "y": 1738
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "817DE9EF-3CE8-47E3-8CCB-BF84D87350DB"
+    },
+    {
+      "class": "text",
+      "id": "568F4C77-9159-450B-A2B6-4C89609E800A"
+    },
+    {
+      "class": "MSImmutableHotspotLayer",
+      "id": "2AEC7757-DB7A-4CE5-A1D6-B37720C6D3F8"
+    }
+  ],
+  "name": "nextBtn",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 0,
+        "thickness": 1
+      }
+    ],
+    "do_objectID": "CB744AF4-5339-422A-8001-14E13A0943FF",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

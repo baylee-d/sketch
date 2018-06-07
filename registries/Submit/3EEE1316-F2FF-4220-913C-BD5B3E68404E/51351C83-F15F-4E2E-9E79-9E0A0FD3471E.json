@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "51351C83-F15F-4E2E-9E79-9E0A0FD3471E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2740B824-B16C-4883-A128-94FA0E5CE20B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3152FFD0-0DE7-48A4-AA8C-3EAD62129634",
+    "height": 215,
+    "width": 1443,
+    "x": 0,
+    "y": 51
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "header/registries",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "79675340-A6E7-4B3A-BDD6-DBC7C7BCCB24",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "D70F457D-A1DB-4CC3-B739-4AE01C11BB29",
+  "verticalSpacing": 0
+}

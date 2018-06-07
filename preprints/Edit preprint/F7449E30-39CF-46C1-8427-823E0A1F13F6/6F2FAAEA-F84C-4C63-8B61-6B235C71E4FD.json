@@ -33,6 +33,9 @@
       "value": "Edit Preprint"
     }
   ],
+  "overrides": {
+    "745C5FE4-CBE6-4AD9-9218-BCC4E1652785": "Edit Preprint"
+  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

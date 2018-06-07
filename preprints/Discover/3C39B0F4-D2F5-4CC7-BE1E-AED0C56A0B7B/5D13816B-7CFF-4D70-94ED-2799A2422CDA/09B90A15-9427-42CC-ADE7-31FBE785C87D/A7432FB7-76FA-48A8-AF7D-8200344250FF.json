@@ -1,34 +1,10 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "attributedString",
-    "attributes": [
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.4666666666666667,
-            "green": 0.4666666666666667,
-            "red": 0.4666666666666667
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "OpenSans-Light",
-              "size": 14
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle"
-          }
-        },
-        "length": 303,
-        "location": 0
-      }
-    ],
-    "string": "Indirect evaluation measures are used as a dependent measure to assess the impact of experimental interventions on shifting pre-existing attitudes or creating new attitudes. In four experiments (total N = 13,894), we compared the sensitivity of four indirect evaluation measures to evaluative informa..."
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGX2BYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHAcIDxAcHR4fKywtLi8wMTIzOT1FRkdISUxQWFtVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAbgANfEQEvSW5kaXJlY3QgZXZhbHVhdGlvbiBtZWFzdXJlcyBhcmUgdXNlZCBhcyBhIGRlcGVuZGVudCBtZWFzdXJlIHRvIGFzc2VzcyB0aGUgaW1wYWN0IG9mIGV4cGVyaW1lbnRhbCBpbnRlcnZlbnRpb25zIG9uIHNoaWZ0aW5nIHByZS1leGlzdGluZyBhdHRpdHVkZXMgb3IgY3JlYXRpbmcgbmV3IGF0dGl0dWRlcy4gSW4gZm91ciBleHBlcmltZW50cyAodG90YWwgTiA9IDEzLDg5NCksIHdlIGNvbXBhcmVkIHRoZSBzZW5zaXRpdml0eSBvZiBmb3VyIGluZGlyZWN0IGV2YWx1YXRpb24gbWVhc3VyZXMgdG8gZXZhbHVhdGl2ZSBpbmZvcm1hLi4u0xESChMXG1dOUy5rZXlzWk5TLm9iamVjdHOjFBUWgASABYAGoxgZGoAHgBGAGYAQXxAqTVNBdHRyaWJ1dGVkU3RyaW5nQ29sb3JEaWN0aW9uYXJ5QXR0cmlidXRlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QEE5TUGFyYWdyYXBoU3R5bGXTERIKICUbpCEiIySACIAJgAqAC6QmJygpgAyADYAOgA+AEFNyZWRVYWxwaGFUYmx1ZVVncmVlbiM/3d3d3d3d3iM/8AAAAAAAACM/3d3d3d3d3iM/3d3d3d3d3tI0NTY3WiRjbGFzc25hbWVYJGNsYXNzZXNcTlNEaWN0aW9uYXJ5ojY4WE5TT2JqZWN00go6OzxfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AYgBLTERIKPkFEoj9AgBOAFKJCQ4AVgBaAF18QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlEA5eT3BlblNhbnMtTGlnaHTSNDVKS18QE05TTXV0YWJsZURpY3Rpb25hcnmjSjY40jQ1TU5fEBBOU0ZvbnREZXNjcmlwdG9yok84XxAQTlNGb250RGVzY3JpcHRvctRRUlMKVFVWV1pOU1RhYlN0b3BzW05TQWxpZ25tZW50XxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvboAAEAQQAYAa0jQ1WVpfEBBOU1BhcmFncmFwaFN0eWxlolk40jQ1XF1fEBJOU0F0dHJpYnV0ZWRTdHJpbmeiXjhfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRYWJUcm9vdIABAAgAEQAaACMALQAyADcAVgBcAGMAbABzAIAAggCEAIYBuQHAAcgB0wHXAdkB2wHdAeEB4wHlAecB6QIWAjgCSwJSAlcCWQJbAl0CXwJkAmYCaAJqAmwCbgJyAngCfQKDAowClQKeAqcCrAK3AsACzQLQAtkC3gL7Av0C/wMGAwkDCwMNAxADEgMUAxYDLANCA0QDUwNYA24DcgN3A4oDjQOgA6kDtAPAA+ID5APmA+gD6gPvBAIEBQQKBB8EIgQ3BEkETARRAAAAAAAAAgEAAAAAAAAAYwAAAAAAAAAAAAAAAAAABFM="
+    }
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "A7432FB7-76FA-48A8-AF7D-8200344250FF",
@@ -79,14 +55,10 @@
           "red": 0.4666666666666667
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
-          "attributes": {
-            "name": "OpenSans-Light",
-            "size": 14
-          }
+          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRAOXk9wZW5TYW5zLUxpZ2h00hwdHh9aJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjHiAhXE5TRGljdGlvbmFyeVhOU09iamVjdNIcHSMkXxAQTlNGb250RGVzY3JpcHRvcqIlIV8QEE5TRm9udERlc2NyaXB0b3JfEA9OU0tleWVkQXJjaGl2ZXLRKClUcm9vdIABAAgAEQAaACMALQAyADcAQQBHAEwAUwBwAHIAdAB7AIMAjgCRAJMAlQCYAJoAnACeALQAygDMANsA4ADrAPQBCgEOARsBJAEpATwBPwFSAWQBZwFsAAAAAAAAAgEAAAAAAAAAKgAAAAAAAAAAAAAAAAAAAW4="
         },
         "paragraphStyle": {
-          "_class": "paragraphStyle"
+          "_archive": "YnBsaXN0MDDUAQIDBAUGFxhYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKMHCBFVJG51bGzUCQoLDA0ODxBaTlNUYWJTdG9wc1tOU0FsaWdubWVudF8QH05TQWxsb3dzVGlnaHRlbmluZ0ZvclRydW5jYXRpb25WJGNsYXNzgAAQBBABgALSEhMUFVokY2xhc3NuYW1lWCRjbGFzc2VzXxAQTlNQYXJhZ3JhcGhTdHlsZaIUFlhOU09iamVjdF8QD05TS2V5ZWRBcmNoaXZlctEZGlRyb290gAEIERojLTI3O0FKVWGDioyOkJKXoqu+wcrc3+QAAAAAAAABAQAAAAAAAAAbAAAAAAAAAAAAAAAAAAAA5g=="
         }
       },
       "verticalAlignment": 0

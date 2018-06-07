@@ -1,34 +1,10 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "attributedString",
-    "attributes": [
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.4666666666666667,
-            "green": 0.4666666666666667,
-            "red": 0.4666666666666667
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "OpenSans-Light",
-              "size": 14
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle"
-          }
-        },
-        "length": 303,
-        "location": 0
-      }
-    ],
-    "string": "Existing norms for scientific communication are rooted in anachronistic practices of bygone eras, making them needlessly inefficient. We outline a path that moves away from the existing model of scientific communication to improve the efficiency in meeting the purpose of public science – knowledge a..."
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGX2BYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHAcIDxAcHR4fKywtLi8wMTIzOT1FRkdISUxQWFtVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAbgANvEQEvAEUAeABpAHMAdABpAG4AZwAgAG4AbwByAG0AcwAgAGYAbwByACAAcwBjAGkAZQBuAHQAaQBmAGkAYwAgAGMAbwBtAG0AdQBuAGkAYwBhAHQAaQBvAG4AIABhAHIAZQAgAHIAbwBvAHQAZQBkACAAaQBuACAAYQBuAGEAYwBoAHIAbwBuAGkAcwB0AGkAYwAgAHAAcgBhAGMAdABpAGMAZQBzACAAbwBmACAAYgB5AGcAbwBuAGUAIABlAHIAYQBzACwAIABtAGEAawBpAG4AZwAgAHQAaABlAG0AIABuAGUAZQBkAGwAZQBzAHMAbAB5ACAAaQBuAGUAZgBmAGkAYwBpAGUAbgB0AC4AIABXAGUAIABvAHUAdABsAGkAbgBlACAAYQAgAHAAYQB0AGgAIAB0AGgAYQB0ACAAbQBvAHYAZQBzACAAYQB3AGEAeQAgAGYAcgBvAG0AIAB0AGgAZQAgAGUAeABpAHMAdABpAG4AZwAgAG0AbwBkAGUAbAAgAG8AZgAgAHMAYwBpAGUAbgB0AGkAZgBpAGMAIABjAG8AbQBtAHUAbgBpAGMAYQB0AGkAbwBuACAAdABvACAAaQBtAHAAcgBvAHYAZQAgAHQAaABlACAAZQBmAGYAaQBjAGkAZQBuAGMAeQAgAGkAbgAgAG0AZQBlAHQAaQBuAGcAIAB0AGgAZQAgAHAAdQByAHAAbwBzAGUAIABvAGYAIABwAHUAYgBsAGkAYwAgAHMAYwBpAGUAbgBjAGUAICATACAAawBuAG8AdwBsAGUAZABnAGUAIABhAC4ALgAu0xESChMXG1dOUy5rZXlzWk5TLm9iamVjdHOjFBUWgASABYAGoxgZGoAHgBGAGYAQXxAqTVNBdHRyaWJ1dGVkU3RyaW5nQ29sb3JEaWN0aW9uYXJ5QXR0cmlidXRlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QEE5TUGFyYWdyYXBoU3R5bGXTERIKICUbpCEiIySACIAJgAqAC6QmJygpgAyADYAOgA+AEFNyZWRVYWxwaGFUYmx1ZVVncmVlbiM/3d3d3d3d3iM/8AAAAAAAACM/3d3d3d3d3iM/3d3d3d3d3tI0NTY3WiRjbGFzc25hbWVYJGNsYXNzZXNcTlNEaWN0aW9uYXJ5ojY4WE5TT2JqZWN00go6OzxfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AYgBLTERIKPkFEoj9AgBOAFKJCQ4AVgBaAF18QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlEA5eT3BlblNhbnMtTGlnaHTSNDVKS18QE05TTXV0YWJsZURpY3Rpb25hcnmjSjY40jQ1TU5fEBBOU0ZvbnREZXNjcmlwdG9yok84XxAQTlNGb250RGVzY3JpcHRvctRRUlMKVFVWV1pOU1RhYlN0b3BzW05TQWxpZ25tZW50XxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvboAAEAQQAYAa0jQ1WVpfEBBOU1BhcmFncmFwaFN0eWxlolk40jQ1XF1fEBJOU0F0dHJpYnV0ZWRTdHJpbmeiXjhfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRYWJUcm9vdIABAAgAEQAaACMALQAyADcAVgBcAGMAbABzAIAAggCEAIYC6ALvAvcDAgMGAwgDCgMMAxADEgMUAxYDGANFA2cDegOBA4YDiAOKA4wDjgOTA5UDlwOZA5sDnQOhA6cDrAOyA7sDxAPNA9YD2wPmA+8D/AP/BAgEDQQqBCwELgQ1BDgEOgQ8BD8EQQRDBEUEWwRxBHMEggSHBJ0EoQSmBLkEvATPBNgE4wTvBREFEwUVBRcFGQUeBTEFNAU5BU4FUQVmBXgFewWAAAAAAAAAAgEAAAAAAAAAYwAAAAAAAAAAAAAAAAAABYI="
+    }
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "2B40FBC4-CCE0-434B-8966-5C410BF3A896",
@@ -79,14 +55,10 @@
           "red": 0.4666666666666667
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
-          "attributes": {
-            "name": "OpenSans-Light",
-            "size": 14
-          }
+          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRAOXk9wZW5TYW5zLUxpZ2h00hwdHh9aJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjHiAhXE5TRGljdGlvbmFyeVhOU09iamVjdNIcHSMkXxAQTlNGb250RGVzY3JpcHRvcqIlIV8QEE5TRm9udERlc2NyaXB0b3JfEA9OU0tleWVkQXJjaGl2ZXLRKClUcm9vdIABAAgAEQAaACMALQAyADcAQQBHAEwAUwBwAHIAdAB7AIMAjgCRAJMAlQCYAJoAnACeALQAygDMANsA4ADrAPQBCgEOARsBJAEpATwBPwFSAWQBZwFsAAAAAAAAAgEAAAAAAAAAKgAAAAAAAAAAAAAAAAAAAW4="
         },
         "paragraphStyle": {
-          "_class": "paragraphStyle"
+          "_archive": "YnBsaXN0MDDUAQIDBAUGFxhYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKMHCBFVJG51bGzUCQoLDA0ODxBaTlNUYWJTdG9wc1tOU0FsaWdubWVudF8QH05TQWxsb3dzVGlnaHRlbmluZ0ZvclRydW5jYXRpb25WJGNsYXNzgAAQBBABgALSEhMUFVokY2xhc3NuYW1lWCRjbGFzc2VzXxAQTlNQYXJhZ3JhcGhTdHlsZaIUFlhOU09iamVjdF8QD05TS2V5ZWRBcmNoaXZlctEZGlRyb290gAEIERojLTI3O0FKVWGDioyOkJKXoqu+wcrc3+QAAAAAAAABAQAAAAAAAAAbAAAAAAAAAAAAAAAAAAAA5g=="
         }
       },
       "verticalAlignment": 0

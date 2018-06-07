@@ -33,6 +33,9 @@
       "value": "For each section below, \"Save and continue\" will directly update both the paper and the OSF project."
     }
   ],
+  "overrides": {
+    "DDBC9248-7739-4F95-AC8B-2AE5F847803B": "For each section below, \"Save and continue\" will directly update both the paper and the OSF project."
+  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

@@ -1,0 +1,118 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "15693C0B-B2F3-4153-BF41-82F31DB11FA6",
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "095C904B-221D-4CE1-BC4A-68BA5951DC4B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E59AB823-E412-4A29-9EE7-C90F0AF3A100",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F0D324E6-BD15-4FA9-98F0-A656B8E6E8E7",
+    "height": 1482,
+    "width": 1440,
+    "x": -5964,
+    "y": 51
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "7F37277E-3F96-4050-9DB3-733ECF74BA73",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "CD633647-59DD-4F3F-8F23-C280C05AA9B2"
+    },
+    {
+      "class": "group",
+      "id": "CE70B48E-CC92-4ED7-B3D0-5650375783AD"
+    },
+    {
+      "class": "group",
+      "id": "6E3D7DC6-A9FF-4F23-831C-A11C08937099"
+    },
+    {
+      "class": "group",
+      "id": "7BDC9E8A-262D-4359-9092-13BBE97E5338"
+    },
+    {
+      "class": "group",
+      "id": "95E03441-CF5E-4D0F-B208-F7879EE7FA83"
+    },
+    {
+      "class": "group",
+      "id": "64360E0C-586E-4673-ABFA-CD405D3E1C7E"
+    },
+    {
+      "class": "text",
+      "id": "EAF25DEF-97E1-4A9B-A8C7-F1E263CF2B29"
+    },
+    {
+      "class": "group",
+      "id": "6113BD42-7F63-4DE1-841E-5793681AD837"
+    },
+    {
+      "class": "MSImmutableHotspotLayer",
+      "id": "2125218B-E3F1-4565-9879-858546A77580"
+    },
+    {
+      "class": "MSImmutableHotspotLayer",
+      "id": "710D7CB5-16B7-4724-9070-3FEB3ABFD1A3"
+    }
+  ],
+  "name": "selectProject",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3A98E50F-2F72-44CA-862F-EB4B3452CE7B",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "1054C120-4033-4D5F-93BE-DC2EB8B0C9DC",
+    "guides": [
+    ]
+  }
+}
